@@ -98,6 +98,24 @@ body {
   font-weight: 300;
 }
 
+.home-buttons {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.btn-no {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-muted);
+  border: 1.5px solid var(--border-glass);
+  padding: 1rem 2.5rem;
+  font-size: 1.15rem;
+  letter-spacing: 1px;
+  transition: left 0.3s ease, top 0.3s ease;
+  user-select: none;
+}
+
 /* ---- Buttons ---- */
 .btn {
   font-family: inherit;

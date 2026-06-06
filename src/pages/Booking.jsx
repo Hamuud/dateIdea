@@ -47,16 +47,16 @@ export default function Booking() {
   return (
     <div className="page booking-page">
       <div className="booking-card">
-        <h2 className="section-title">Book Your Seat 🎟️</h2>
+        <h2 className="section-title">Забронюй квиток 🎟️</h2>
 
         <form onSubmit={handleSubmit}>
           <div className="form-group">
-            <label>Movie</label>
+            <label>Фільм</label>
             <input type="text" value={`${movie.title} (${movie.titleUA})`} readOnly />
           </div>
 
           <div className="form-group">
-            <label>Showtime</label>
+            <label>Доступний час сеансу</label>
             <select value={form.showtime} onChange={update('showtime')} required>
               {movie.showtimes.map((t) => (
                 <option key={t} value={t}>{t}</option>
@@ -65,7 +65,7 @@ export default function Booking() {
           </div>
 
           <div className="form-group">
-            <label>Pickup Time</label>
+            <label>Коли забрати</label>
             <input
               type="time"
               value={form.pickupTime}
@@ -75,22 +75,22 @@ export default function Booking() {
           </div>
 
           <div className="form-group">
-            <label>Your Name</label>
+            <label>Ім'я</label>
             <input
               type="text"
               value={form.name}
               onChange={update('name')}
-              placeholder="Enter your name"
+              placeholder="Жанна або Барбос, або що хоч"
               required
             />
           </div>
 
           <div className="form-group">
-            <label>Message (optional)</label>
+            <label>Повідомлення (optional)</label>
             <textarea
               value={form.message}
               onChange={update('message')}
-              placeholder="Any special requests?"
+              placeholder="Якісь особливі побажання?"
               rows={3}
             />
           </div>
@@ -98,7 +98,7 @@ export default function Booking() {
           {error && <p className="form-error">{error}</p>}
 
           <button type="submit" className="btn btn-hero" disabled={sending}>
-            {sending ? 'Sending...' : 'SEE YOU SOON ❤️'}
+            {sending ? 'Відправляється...' : 'ХАРОШ БАРБОС❤️'}
           </button>
         </form>
       </div>

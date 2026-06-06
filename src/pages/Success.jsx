@@ -7,12 +7,12 @@ export default function Success() {
   return (
     <div className="page success-page">
       <div className="success-content">
-        <h1 className="success-title">❤️ Can't Wait To See You ❤️</h1>
+        <h1 className="success-title">Чао ПЕРСІК, ДАЗРЕВАЙ</h1>
         <video className="success-gif" autoPlay loop muted playsInline>
           <source src={sticker} type="video/webm" />
         </video>
         <button className="btn btn-hero" onClick={() => navigate('/')}>
-          Back to Home
+          На головну сторінку
         </button>
       </div>
     </div>

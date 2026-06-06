@@ -10,7 +10,7 @@ export default function Movies() {
 
   return (
     <div className="page movies-page">
-      <h2 className="section-title">Pick a Movie 🍿</h2>
+      <h2 className="section-title">Вибери фільм 🍿</h2>
       <div className="movies-grid">
         {movies.map((movie) => (
           <MovieCard

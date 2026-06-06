@@ -26,10 +26,10 @@ export default function MovieCard({ movie, onTrailer, onBook }) {
         </div>
         <div className="movie-actions">
           <button className="btn btn-outline" onClick={() => onTrailer(movie)}>
-            Watch Trailer
+            ТРЕЙЛЕР
           </button>
           <button className="btn btn-primary" onClick={() => onBook(movie)}>
-            Book
+            ЗАБРОНЮВАТИ
           </button>
         </div>
       </div>
