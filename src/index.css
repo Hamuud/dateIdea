@@ -1,0 +1,498 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-dark: #0a0a1a;
+  --bg-card: rgba(255, 255, 255, 0.06);
+  --bg-glass: rgba(255, 255, 255, 0.08);
+  --border-glass: rgba(255, 255, 255, 0.12);
+  --text: #f0e6ff;
+  --text-muted: #a89bc2;
+  --accent: #e84393;
+  --accent-glow: rgba(232, 67, 147, 0.4);
+  --accent-2: #fd79a8;
+  --gradient-hero: linear-gradient(135deg, #e84393, #fd79a8, #fab1a0);
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-dark);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ---- Emoji Background ---- */
+.emoji-bg {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.falling-emoji {
+  position: absolute;
+  top: -40px;
+  animation: fall linear forwards;
+  user-select: none;
+  pointer-events: none;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(110vh) rotate(360deg);
+  }
+}
+
+/* ---- Layout ---- */
+.page {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem;
+}
+
+/* ---- Home ---- */
+.home-page {
+  justify-content: center;
+}
+
+.home-content {
+  text-align: center;
+  animation: fadeUp 0.8s ease-out;
+}
+
+.home-title {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  font-weight: 800;
+  background: var(--gradient-hero);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+.title-emoji {
+  -webkit-text-fill-color: initial;
+}
+
+.home-subtitle {
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+  font-weight: 300;
+}
+
+/* ---- Buttons ---- */
+.btn {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-hero {
+  background: var(--gradient-hero);
+  color: #fff;
+  font-size: 1.15rem;
+  padding: 1rem 3rem;
+  box-shadow: 0 4px 25px var(--accent-glow);
+  letter-spacing: 1px;
+}
+
+.btn-hero:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 35px var(--accent-glow);
+}
+
+.btn-hero:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-primary {
+  background: var(--gradient-hero);
+  color: #fff;
+  padding: 0.55rem 1.3rem;
+  font-size: 0.85rem;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 15px var(--accent-glow);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--accent-2);
+  border: 1.5px solid var(--accent-2);
+  padding: 0.5rem 1.2rem;
+  font-size: 0.85rem;
+}
+
+.btn-outline:hover {
+  background: rgba(253, 121, 168, 0.1);
+}
+
+/* ---- Section Title ---- */
+.section-title {
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+  background: var(--gradient-hero);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ---- Movies Grid ---- */
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1100px;
+  width: 100%;
+}
+
+/* ---- Movie Card ---- */
+.movie-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-glass);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+  animation: fadeUp 0.6s ease-out both;
+}
+
+.movie-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 40px rgba(232, 67, 147, 0.15);
+}
+
+.movie-poster {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2/3;
+  overflow: hidden;
+}
+
+.movie-poster img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.poster-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  padding: 1.5rem;
+}
+
+.poster-emoji {
+  font-size: 3rem;
+}
+
+.poster-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.3;
+}
+
+.poster-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, var(--bg-dark) 0%, transparent 50%);
+}
+
+.movie-info {
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.movie-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.movie-title-ua {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 400;
+  margin-top: -0.3rem;
+}
+
+.movie-genre {
+  font-size: 0.75rem;
+  color: var(--accent-2);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.movie-showtimes {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.showtime-badge {
+  background: rgba(232, 67, 147, 0.15);
+  color: var(--accent-2);
+  padding: 0.25rem 0.65rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.movie-actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.4rem;
+}
+
+/* ---- Trailer Modal ---- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  animation: fadeIn 0.25s ease;
+}
+
+.modal-content {
+  background: #1a1a2e;
+  border: 1px solid var(--border-glass);
+  border-radius: 20px;
+  padding: 1.5rem;
+  max-width: 700px;
+  width: 100%;
+  position: relative;
+}
+
+.modal-content h3 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.modal-close {
+  position: absolute;
+  top: 0.8rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  color: var(--text);
+  font-size: 1.4rem;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.modal-close:hover {
+  opacity: 1;
+}
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* ---- Booking ---- */
+.booking-page {
+  justify-content: center;
+}
+
+.booking-card {
+  background: var(--bg-glass);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border-glass);
+  border-radius: 24px;
+  padding: 2.5rem 2rem;
+  max-width: 500px;
+  width: 100%;
+  animation: fadeUp 0.6s ease-out;
+}
+
+.form-group {
+  margin-bottom: 1.2rem;
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 14px;
+  border: 1px solid var(--border-glass);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  transition: border-color 0.2s;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+.form-group input[readonly] {
+  opacity: 0.7;
+  cursor: default;
+}
+
+.form-group select {
+  cursor: pointer;
+}
+
+.form-group select option {
+  background: #1a1a2e;
+}
+
+.form-group textarea {
+  resize: vertical;
+}
+
+.form-error {
+  color: #ff6b6b;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.booking-card .btn-hero {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+/* ---- Success ---- */
+.success-page {
+  justify-content: center;
+}
+
+.success-content {
+  text-align: center;
+  animation: fadeUp 0.8s ease-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.success-title {
+  font-size: clamp(1.8rem, 5vw, 2.8rem);
+  font-weight: 800;
+  background: var(--gradient-hero);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 2rem;
+}
+
+.success-gif {
+  max-width: 300px;
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  object-fit: contain;
+}
+
+.success-content .btn-hero {
+  display: inline-block;
+}
+
+/* ---- Animations ---- */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 600px) {
+  .movies-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .booking-card {
+    padding: 1.5rem 1.2rem;
+  }
+
+  .movie-actions {
+    flex-direction: column;
+  }
+
+  .movie-actions .btn {
+    width: 100%;
+    text-align: center;
+  }
+}
