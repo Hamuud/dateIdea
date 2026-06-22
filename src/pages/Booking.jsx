@@ -80,7 +80,7 @@ export default function Booking() {
               type="text"
               value={form.name}
               onChange={update('name')}
-              placeholder="Жанна або Барбос, або що хоч"
+              placeholder="Твоє ім'я на сьогодні"
               required
             />
           </div>
@@ -98,7 +98,7 @@ export default function Booking() {
           {error && <p className="form-error">{error}</p>}
 
           <button type="submit" className="btn btn-hero" disabled={sending}>
-            {sending ? 'Відправляється...' : 'ХАРОШ БАРБОС❤️'}
+            {sending ? 'Відправляється...' : 'ХАРОШ❤️'}
           </button>
         </form>
       </div>
