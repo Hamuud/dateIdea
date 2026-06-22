@@ -14,6 +14,7 @@ export default function MovieCard({ movie, onTrailer, onBook }) {
           </div>
         )}
         <div className="poster-overlay" />
+        {movie.ageLimit && <span className="age-badge">{movie.ageLimit}</span>}
       </div>
       <div className="movie-info">
         <h3 className="movie-title">{movie.title}</h3>
@@ -25,9 +26,11 @@ export default function MovieCard({ movie, onTrailer, onBook }) {
           ))}
         </div>
         <div className="movie-actions">
-          <button className="btn btn-outline" onClick={() => onTrailer(movie)}>
-            ТРЕЙЛЕР
-          </button>
+          {movie.trailerUrl && (
+            <button className="btn btn-outline" onClick={() => onTrailer(movie)}>
+              ТРЕЙЛЕР
+            </button>
+          )}
           <button className="btn btn-primary" onClick={() => onBook(movie)}>
             ЗАБРОНЮВАТИ
           </button>
