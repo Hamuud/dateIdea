@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T12:57:42.300863+00:00",
+  "updatedAt": "2026-06-23T22:19:04.278134+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -12,8 +12,8 @@
       "trailer": "https://www.youtube.com/embed/8S2vimDw_xA",
       "showtimes": [
         {
-          "time": "19:40",
-          "hall": "ONYX",
+          "time": "15:50",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
@@ -28,6 +28,21 @@
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045287?alt=media",
       "trailer": "https://www.youtube.com/embed/lGRWG3_ZoYY",
       "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "12:10",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "14:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
         {
           "time": "16:25",
           "hall": "Зал №1",
@@ -51,6 +66,11 @@
       "trailer": "https://www.youtube.com/embed/yR3ECoK3inI",
       "showtimes": [
         {
+          "time": "10:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
           "time": "21:25",
           "hall": "Зал №2",
           "format": "2D"
@@ -65,8 +85,23 @@
       "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
-      "trailer": "https://www.youtube.com/embed/2W61hV8aKII",
+      "trailer": "https://www.youtube.com/embed/6Io8PFb36Ko",
       "showtimes": [
+        {
+          "time": "11:00",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "13:10",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "15:20",
+          "hall": "ONYX",
+          "format": "3D"
+        },
         {
           "time": "17:30",
           "hall": "ONYX",
@@ -90,6 +125,11 @@
       "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
       "showtimes": [
         {
+          "time": "10:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
           "time": "18:15",
           "hall": "Зал №3",
           "format": "2D"
@@ -103,23 +143,6 @@
       "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1143",
-      "title": "Він шалений",
-      "slug": "vin-shalenij",
-      "genres": "Трилер, Екшн, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780576953122?alt=media",
-      "trailer": "https://www.youtube.com/embed/CtTNP2guCs0",
-      "showtimes": [
-        {
-          "time": "16:05",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vin-shalenij?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1133",
       "title": "Брудні гроші",
       "slug": "brudni-groshi",
@@ -128,6 +151,11 @@
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
       "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
       "showtimes": [
+        {
+          "time": "15:15",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
         {
           "time": "17:15",
           "hall": "Зал №4",
@@ -147,6 +175,23 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
+      "id": "ternopil-1148",
+      "title": "Суперґьорл 3Д",
+      "slug": "supergorl-3d",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1781001891048?alt=media",
+      "trailer": null,
+      "showtimes": [
+        {
+          "time": "19:40",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/supergorl-3d?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1144",
       "title": "Ведмежий капкан",
       "slug": "vedmezhij-kapkan",
@@ -156,12 +201,51 @@
       "trailer": "https://www.youtube.com/embed/ueB_eqaV8hE",
       "showtimes": [
         {
+          "time": "14:35",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
           "time": "20:45",
           "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/vedmezhij-kapkan?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1139",
+      "title": "BACKROOMS: Залаштунки",
+      "slug": "backrooms-zalashtunki",
+      "genres": "Жахи, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
+      "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
+      "showtimes": [
+        {
+          "time": "12:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1143",
+      "title": "Він шалений",
+      "slug": "vin-shalenij",
+      "genres": "Трилер, Екшн, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780576953122?alt=media",
+      "trailer": "https://www.youtube.com/embed/CtTNP2guCs0",
+      "showtimes": [
+        {
+          "time": "13:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vin-shalenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1141",
@@ -172,6 +256,16 @@
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
       "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
       "showtimes": [
+        {
+          "time": "10:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "12:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
         {
           "time": "16:35",
           "hall": "Зал №2",
