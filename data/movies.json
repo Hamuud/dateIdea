@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T12:46:05.051492+00:00",
+  "updatedAt": "2026-06-23T12:52:26.460883+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -42,6 +42,23 @@
       "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
     },
     {
+      "id": "ternopil-1137",
+      "title": "Дуже страшне кіно",
+      "slug": "duzhe-strashne-kino",
+      "genres": "Комедія, Горор, Пародія",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779777923194?alt=media",
+      "trailer": "https://www.youtube.com/embed/yR3ECoK3inI",
+      "showtimes": [
+        {
+          "time": "21:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/duzhe-strashne-kino?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1147",
       "title": "Історія іграшок-5 3Д",
       "slug": "istoriya-igrashok-5-3d",
@@ -62,50 +79,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1137",
-      "title": "Дуже страшне кіно",
-      "slug": "duzhe-strashne-kino",
-      "genres": "Комедія, Горор, Пародія",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779777923194?alt=media",
-      "trailer": "https://www.youtube.com/embed/yR3ECoK3inI",
-      "showtimes": [
-        {
-          "time": "21:25",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/duzhe-strashne-kino?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1133",
-      "title": "Брудні гроші",
-      "slug": "brudni-groshi",
-      "genres": "Трилер, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
-      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
-      "showtimes": [
-        {
-          "time": "17:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "19:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "21:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
       "id": "ternopil-1142",
@@ -147,21 +120,31 @@
       "detailUrl": "https://miromax.ua/movies/vin-shalenij?cinema=ternopil"
     },
     {
-      "id": "ternopil-1141",
-      "title": "День істини",
-      "slug": "den-istini",
-      "genres": "Наукова фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
-      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
+      "id": "ternopil-1133",
+      "title": "Брудні гроші",
+      "slug": "brudni-groshi",
+      "genres": "Трилер, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
+      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
       "showtimes": [
         {
-          "time": "16:35",
-          "hall": "Зал №2",
+          "time": "17:15",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "19:15",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "21:15",
+          "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
       "id": "ternopil-1144",
@@ -179,6 +162,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/vedmezhij-kapkan?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1141",
+      "title": "День істини",
+      "slug": "den-istini",
+      "genres": "Наукова фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
+      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
+      "showtimes": [
+        {
+          "time": "16:35",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
     }
   ]
 }
