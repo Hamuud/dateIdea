@@ -6,7 +6,7 @@ from datetime import datetime
 API_URL = 'https://api.miromax.ua/api/movies'
 CINEMA = 'ternopil'
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '')
-OUTPUT_PATH = 'data/movies.json'
+OUTPUT_PATHS = ['data/movies.json', 'public/data/movies.json']
 
 
 def fetch_movies():
@@ -91,17 +91,17 @@ def main():
     movies = transform_movies(raw)
     print(f'Processed {len(movies)} unique movies')
 
-    os.makedirs('data', exist_ok=True)
     output = {
         'updatedAt': datetime.now(tz=__import__('datetime').timezone.utc).isoformat(),
         'cinema': CINEMA,
         'movies': movies,
     }
 
-    with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f'Saved to {OUTPUT_PATH}')
+    for path in OUTPUT_PATHS:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f'Saved to {path}')
 
 
 if __name__ == '__main__':
