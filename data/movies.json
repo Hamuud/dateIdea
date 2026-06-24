@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T22:19:04.278134+00:00",
+  "updatedAt": "2026-06-24T22:22:57.184713+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -12,7 +12,7 @@
       "trailer": "https://www.youtube.com/embed/8S2vimDw_xA",
       "showtimes": [
         {
-          "time": "15:50",
+          "time": "16:45",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -29,32 +29,44 @@
       "trailer": "https://www.youtube.com/embed/lGRWG3_ZoYY",
       "showtimes": [
         {
-          "time": "10:00",
-          "hall": "Зал №1",
+          "time": "10:25",
+          "hall": "Зал №3",
           "format": "2D"
         },
         {
-          "time": "12:10",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "14:20",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "16:25",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "18:40",
-          "hall": "Зал №1",
+          "time": "12:30",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1127",
+      "title": "Суперґьорл",
+      "slug": "supergorl",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045496?alt=media",
+      "trailer": "https://www.youtube.com/embed/hGpVqGDSbYE",
+      "showtimes": [
+        {
+          "time": "14:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "18:40",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "21:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/supergorl?cinema=ternopil"
     },
     {
       "id": "ternopil-1137",
@@ -66,81 +78,22 @@
       "trailer": "https://www.youtube.com/embed/yR3ECoK3inI",
       "showtimes": [
         {
-          "time": "10:30",
+          "time": "10:05",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "17:00",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
-          "time": "21:25",
-          "hall": "Зал №2",
+          "time": "21:15",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/duzhe-strashne-kino?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1147",
-      "title": "Історія іграшок-5 3Д",
-      "slug": "istoriya-igrashok-5-3d",
-      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
-      "trailer": "https://www.youtube.com/embed/6Io8PFb36Ko",
-      "showtimes": [
-        {
-          "time": "11:00",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "13:10",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "15:20",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "17:30",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "19:20",
-          "hall": "Зал №2",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "18:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "20:25",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
       "id": "ternopil-1133",
@@ -152,27 +105,49 @@
       "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
       "showtimes": [
         {
-          "time": "15:15",
+          "time": "12:40",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
-          "time": "17:15",
-          "hall": "Зал №4",
+          "time": "14:15",
+          "hall": "Зал №1",
           "format": "2D"
         },
         {
           "time": "19:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "21:15",
-          "hall": "Зал №4",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1147",
+      "title": "Історія іграшок-5 3Д",
+      "slug": "istoriya-igrashok-5-3d",
+      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
+      "trailer": "https://www.youtube.com/embed/2W61hV8aKII",
+      "showtimes": [
+        {
+          "time": "13:10",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "14:25",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "17:30",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1148",
@@ -184,12 +159,59 @@
       "trailer": null,
       "showtimes": [
         {
+          "time": "11:00",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "12:15",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "15:20",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "16:30",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
           "time": "19:40",
           "hall": "ONYX",
           "format": "3D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/supergorl-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "12:05",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "14:50",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
       "id": "ternopil-1144",
@@ -201,13 +223,8 @@
       "trailer": "https://www.youtube.com/embed/ueB_eqaV8hE",
       "showtimes": [
         {
-          "time": "14:35",
+          "time": "10:15",
           "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "20:45",
-          "hall": "Зал №1",
           "format": "2D"
         }
       ],
@@ -223,29 +240,17 @@
       "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
       "showtimes": [
         {
-          "time": "12:25",
+          "time": "10:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "20:50",
           "hall": "Зал №2",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1143",
-      "title": "Він шалений",
-      "slug": "vin-shalenij",
-      "genres": "Трилер, Екшн, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780576953122?alt=media",
-      "trailer": "https://www.youtube.com/embed/CtTNP2guCs0",
-      "showtimes": [
-        {
-          "time": "13:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vin-shalenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1141",
@@ -257,22 +262,34 @@
       "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
       "showtimes": [
         {
-          "time": "10:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "12:30",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "16:35",
-          "hall": "Зал №2",
+          "time": "20:30",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1149",
+      "title": "Тато в оренду",
+      "slug": "tato-v-orendu",
+      "genres": "Сімейний, Комедія",
+      "ageLimit": "~0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1781192137653?alt=media",
+      "trailer": "https://www.youtube.com/embed/TAr-Q2NSqls",
+      "showtimes": [
+        {
+          "time": "16:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "19:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/tato-v-orendu?cinema=ternopil"
     }
   ]
 }
