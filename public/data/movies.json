@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-06-24T22:22:57.184713+00:00",
+  "updatedAt": "2026-06-25T08:15:07.810933+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1147",
+      "title": "Історія іграшок-5 3Д",
+      "slug": "istoriya-igrashok-5-3d",
+      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
+      "trailer": "https://www.youtube.com/embed/2W61hV8aKII",
+      "showtimes": [
+        {
+          "time": "13:10",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "14:25",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "17:30",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5-3d?cinema=ternopil"
+    },
     {
       "id": "ternopil-1106",
       "title": "Майкл",
@@ -28,11 +55,6 @@
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045287?alt=media",
       "trailer": "https://www.youtube.com/embed/lGRWG3_ZoYY",
       "showtimes": [
-        {
-          "time": "10:25",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
         {
           "time": "12:30",
           "hall": "Зал №3",
@@ -78,11 +100,6 @@
       "trailer": "https://www.youtube.com/embed/yR3ECoK3inI",
       "showtimes": [
         {
-          "time": "10:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
           "time": "17:00",
           "hall": "Зал №4",
           "format": "2D"
@@ -94,6 +111,38 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/duzhe-strashne-kino?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1148",
+      "title": "Суперґьорл 3Д",
+      "slug": "supergorl-3d",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1781001891048?alt=media",
+      "trailer": null,
+      "showtimes": [
+        {
+          "time": "12:15",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "15:20",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "16:30",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "19:40",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/supergorl-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1133",
@@ -123,70 +172,6 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1147",
-      "title": "Історія іграшок-5 3Д",
-      "slug": "istoriya-igrashok-5-3d",
-      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
-      "trailer": "https://www.youtube.com/embed/2W61hV8aKII",
-      "showtimes": [
-        {
-          "time": "13:10",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "14:25",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
-          "time": "17:30",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1148",
-      "title": "Суперґьорл 3Д",
-      "slug": "supergorl-3d",
-      "genres": "Пригоди, Екшн, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1781001891048?alt=media",
-      "trailer": null,
-      "showtimes": [
-        {
-          "time": "11:00",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "12:15",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
-          "time": "15:20",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "16:30",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
-          "time": "19:40",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/supergorl-3d?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1142",
       "title": "Обсесія",
       "slug": "obsesiya",
@@ -214,23 +199,6 @@
       "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1144",
-      "title": "Ведмежий капкан",
-      "slug": "vedmezhij-kapkan",
-      "genres": "Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780576953509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ueB_eqaV8hE",
-      "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vedmezhij-kapkan?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1139",
       "title": "BACKROOMS: Залаштунки",
       "slug": "backrooms-zalashtunki",
@@ -239,11 +207,6 @@
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
       "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
       "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
         {
           "time": "20:50",
           "hall": "Зал №2",
@@ -274,7 +237,7 @@
       "title": "Тато в оренду",
       "slug": "tato-v-orendu",
       "genres": "Сімейний, Комедія",
-      "ageLimit": "~0+",
+      "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1781192137653?alt=media",
       "trailer": "https://www.youtube.com/embed/TAr-Q2NSqls",
       "showtimes": [
