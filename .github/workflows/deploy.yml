@@ -5,6 +5,14 @@ on:
     branches: [main]
   workflow_dispatch:
 
+  # Auto-deploy after the scraper updates movies.json
+  workflow_run:
+    workflows: ["Daily Movie Scraper"]
+    types:
+      - completed
+    branches:
+      - main
+
 permissions:
   contents: read
   pages: write
@@ -17,12 +25,15 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: npm
 
       - run: npm ci
