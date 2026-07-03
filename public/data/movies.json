@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T22:12:21.299287+00:00",
+  "updatedAt": "2026-07-03T22:09:22.614677+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -170,23 +170,6 @@
       "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
     },
     {
-      "id": "ternopil-1156",
-      "title": "Небезпечний курорт",
-      "slug": "nebezpechnij-kurort",
-      "genres": "Психологічний трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782781273606?alt=media",
-      "trailer": "https://www.youtube.com/embed/kXe8Wv1BNOc",
-      "showtimes": [
-        {
-          "time": "16:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/nebezpechnij-kurort?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1141",
       "title": "День істини",
       "slug": "den-istini",
@@ -226,43 +209,21 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1127",
-      "title": "Суперґьорл",
-      "slug": "supergorl",
-      "genres": "Пригоди, Екшн, Фантастика",
+      "id": "ternopil-1156",
+      "title": "Небезпечний курорт",
+      "slug": "nebezpechnij-kurort",
+      "genres": "Психологічний трилер",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045496?alt=media",
-      "trailer": "https://www.youtube.com/embed/hGpVqGDSbYE",
-      "showtimes": [
-        {
-          "time": "10:35",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/supergorl?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782781273606?alt=media",
+      "trailer": "https://www.youtube.com/embed/VEzXuZb_FL4",
       "showtimes": [
         {
           "time": "16:40",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:20",
-          "hall": "Зал №2",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/nebezpechnij-kurort?cinema=ternopil"
     },
     {
       "id": "ternopil-1125",
@@ -307,6 +268,45 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/majkl?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "16:40",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "19:20",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1127",
+      "title": "Суперґьорл",
+      "slug": "supergorl",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045496?alt=media",
+      "trailer": "https://www.youtube.com/embed/hGpVqGDSbYE",
+      "showtimes": [
+        {
+          "time": "10:35",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/supergorl?cinema=ternopil"
     }
   ]
 }
