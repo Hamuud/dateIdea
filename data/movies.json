@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T22:09:22.614677+00:00",
+  "updatedAt": "2026-07-04T22:03:12.905134+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -131,6 +131,40 @@
       "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
     },
     {
+      "id": "ternopil-1156",
+      "title": "Небезпечний курорт",
+      "slug": "nebezpechnij-kurort",
+      "genres": "Психологічний трилер",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782781273606?alt=media",
+      "trailer": "https://www.youtube.com/embed/kXe8Wv1BNOc",
+      "showtimes": [
+        {
+          "time": "16:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/nebezpechnij-kurort?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1141",
+      "title": "День істини",
+      "slug": "den-istini",
+      "genres": "Наукова фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
+      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
+      "showtimes": [
+        {
+          "time": "20:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1137",
       "title": "Дуже страшне кіно",
       "slug": "duzhe-strashne-kino",
@@ -151,40 +185,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/duzhe-strashne-kino?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1139",
-      "title": "BACKROOMS: Залаштунки",
-      "slug": "backrooms-zalashtunki",
-      "genres": "Жахи, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
-      "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
-      "showtimes": [
-        {
-          "time": "14:30",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1141",
-      "title": "День істини",
-      "slug": "den-istini",
-      "genres": "Наукова фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
-      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
-      "showtimes": [
-        {
-          "time": "20:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
     },
     {
       "id": "ternopil-1133",
@@ -209,21 +209,21 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1156",
-      "title": "Небезпечний курорт",
-      "slug": "nebezpechnij-kurort",
-      "genres": "Психологічний трилер",
+      "id": "ternopil-1139",
+      "title": "BACKROOMS: Залаштунки",
+      "slug": "backrooms-zalashtunki",
+      "genres": "Жахи, Фантастика",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782781273606?alt=media",
-      "trailer": "https://www.youtube.com/embed/VEzXuZb_FL4",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
+      "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
       "showtimes": [
         {
-          "time": "16:40",
+          "time": "14:30",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/nebezpechnij-kurort?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
     },
     {
       "id": "ternopil-1125",
@@ -251,23 +251,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/normal?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1106",
-      "title": "Майкл",
-      "slug": "majkl",
-      "genres": "Байопік",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1775485625835?alt=media",
-      "trailer": "https://www.youtube.com/embed/uZZMPBhl0AY",
-      "showtimes": [
-        {
-          "time": "14:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/majkl?cinema=ternopil"
     },
     {
       "id": "ternopil-1142",
@@ -307,6 +290,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/supergorl?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1106",
+      "title": "Майкл",
+      "slug": "majkl",
+      "genres": "Байопік",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1775485625835?alt=media",
+      "trailer": "https://www.youtube.com/embed/uZZMPBhl0AY",
+      "showtimes": [
+        {
+          "time": "14:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/majkl?cinema=ternopil"
     }
   ]
 }
