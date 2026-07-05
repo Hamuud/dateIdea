@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-07-04T22:03:12.905134+00:00",
+  "updatedAt": "2026-07-05T22:07:23.643668+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "16:40",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "19:20",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1106",
+      "title": "Майкл",
+      "slug": "majkl",
+      "genres": "Байопік",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1775485625835?alt=media",
+      "trailer": "https://www.youtube.com/embed/8S2vimDw_xA",
+      "showtimes": [
+        {
+          "time": "14:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/majkl?cinema=ternopil"
+    },
     {
       "id": "ternopil-1145",
       "title": "Посіпаки і Монстряки 3Д",
@@ -93,7 +132,7 @@
       "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780966850997?alt=media",
-      "trailer": "https://www.youtube.com/embed/5cJ7wrUwXyU",
+      "trailer": "https://www.youtube.com/embed/2W61hV8aKII",
       "showtimes": [
         {
           "time": "12:45",
@@ -146,23 +185,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/nebezpechnij-kurort?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1141",
-      "title": "День істини",
-      "slug": "den-istini",
-      "genres": "Наукова фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
-      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
-      "showtimes": [
-        {
-          "time": "20:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
     },
     {
       "id": "ternopil-1137",
@@ -226,6 +248,23 @@
       "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
     },
     {
+      "id": "ternopil-1141",
+      "title": "День істини",
+      "slug": "den-istini",
+      "genres": "Наукова фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780395402719?alt=media",
+      "trailer": "https://www.youtube.com/embed/dC9iqoIFJWw",
+      "showtimes": [
+        {
+          "time": "20:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1125",
       "title": "Нормал",
       "slug": "normal",
@@ -253,28 +292,6 @@
       "detailUrl": "https://miromax.ua/movies/normal?cinema=ternopil"
     },
     {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "16:40",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:20",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1127",
       "title": "Суперґьорл",
       "slug": "supergorl",
@@ -290,23 +307,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/supergorl?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1106",
-      "title": "Майкл",
-      "slug": "majkl",
-      "genres": "Байопік",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1775485625835?alt=media",
-      "trailer": "https://www.youtube.com/embed/uZZMPBhl0AY",
-      "showtimes": [
-        {
-          "time": "14:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/majkl?cinema=ternopil"
     }
   ]
 }
