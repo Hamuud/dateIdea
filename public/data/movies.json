@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T22:12:21.407995+00:00",
+  "updatedAt": "2026-07-09T22:27:38.621280+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -143,55 +143,6 @@
       "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
     },
     {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "16:55",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "21:05",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1152",
-      "title": "Зловісні мерці у вогні",
-      "slug": "zlovisni-merci-u-vogni",
-      "genres": "Жахи",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844329?alt=media",
-      "trailer": "https://www.youtube.com/embed/27FsdfrKlhw",
-      "showtimes": [
-        {
-          "time": "14:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "19:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zlovisni-merci-u-vogni?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1126",
       "title": "Історія іграшок-5",
       "slug": "istoriya-igrashok-5",
@@ -219,21 +170,53 @@
       "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
     },
     {
-      "id": "ternopil-1157",
-      "title": "Вбивство на 3-му поверсі",
-      "slug": "vbivstvo-na-3-mu-poversi",
-      "genres": "Комедія, Детектив",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783386126021?alt=media",
-      "trailer": "https://www.youtube.com/embed/ezVlqr68B2w",
+      "id": "ternopil-1152",
+      "title": "Зловісні мерці у вогні",
+      "slug": "zlovisni-merci-u-vogni",
+      "genres": "Жахи",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844329?alt=media",
+      "trailer": "https://www.youtube.com/embed/27FsdfrKlhw",
       "showtimes": [
         {
-          "time": "17:05",
+          "time": "14:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "19:20",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/vbivstvo-na-3-mu-poversi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/zlovisni-merci-u-vogni?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "16:55",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "21:05",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
       "id": "ternopil-1141",
@@ -253,28 +236,6 @@
       "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
     },
     {
-      "id": "ternopil-1133",
-      "title": "Брудні гроші",
-      "slug": "brudni-groshi",
-      "genres": "Трилер, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
-      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
-      "showtimes": [
-        {
-          "time": "19:10",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "21:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1125",
       "title": "Нормал",
       "slug": "normal",
@@ -290,6 +251,45 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/normal?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1157",
+      "title": "Вбивство на 3-му поверсі",
+      "slug": "vbivstvo-na-3-mu-poversi",
+      "genres": "Комедія, Детектив",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783386126021?alt=media",
+      "trailer": "https://www.youtube.com/embed/pTG_nysitPo",
+      "showtimes": [
+        {
+          "time": "17:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vbivstvo-na-3-mu-poversi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1133",
+      "title": "Брудні гроші",
+      "slug": "brudni-groshi",
+      "genres": "Трилер, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
+      "trailer": "https://www.youtube.com/embed/Ji0Cg5W_R0A",
+      "showtimes": [
+        {
+          "time": "19:10",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "21:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     }
   ]
 }
