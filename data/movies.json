@@ -1,23 +1,55 @@
 {
-  "updatedAt": "2026-07-11T21:56:09.787929+00:00",
+  "updatedAt": "2026-07-12T21:57:06.959851+00:00",
   "cinema": "ternopil",
   "movies": [
     {
-      "id": "ternopil-1139",
-      "title": "BACKROOMS: Залаштунки",
-      "slug": "backrooms-zalashtunki",
-      "genres": "Жахи, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
-      "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
+      "id": "ternopil-1145",
+      "title": "Посіпаки і Монстряки 3Д",
+      "slug": "posipaki-i-monstryaki-3d",
+      "genres": "Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333261?alt=media",
+      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
       "showtimes": [
         {
-          "time": "10:45",
+          "time": "12:05",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "14:05",
+          "hall": "Зал №2",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1146",
+      "title": "Посіпаки і Монстряки",
+      "slug": "posipaki-i-monstryaki",
+      "genres": "Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333716?alt=media",
+      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
+      "showtimes": [
+        {
+          "time": "10:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "12:55",
           "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "16:05",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki?cinema=ternopil"
     },
     {
       "id": "ternopil-1150",
@@ -111,53 +143,21 @@
       "detailUrl": "https://miromax.ua/movies/normal?cinema=ternopil"
     },
     {
-      "id": "ternopil-1145",
-      "title": "Посіпаки і Монстряки 3Д",
-      "slug": "posipaki-i-monstryaki-3d",
-      "genres": "Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333261?alt=media",
-      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
+      "id": "ternopil-1139",
+      "title": "BACKROOMS: Залаштунки",
+      "slug": "backrooms-zalashtunki",
+      "genres": "Жахи, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779796552773?alt=media",
+      "trailer": "https://www.youtube.com/embed/TBW2zoOkHHU",
       "showtimes": [
         {
-          "time": "12:05",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
-          "time": "14:05",
-          "hall": "Зал №2",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1146",
-      "title": "Посіпаки і Монстряки",
-      "slug": "posipaki-i-monstryaki",
-      "genres": "Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333716?alt=media",
-      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
-      "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "12:55",
+          "time": "10:45",
           "hall": "Зал №4",
           "format": "2D"
-        },
-        {
-          "time": "16:05",
-          "hall": "Зал №2",
-          "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/backrooms-zalashtunki?cinema=ternopil"
     },
     {
       "id": "ternopil-1126",
@@ -258,6 +258,23 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
+      "id": "ternopil-1157",
+      "title": "Вбивство на 3-му поверсі",
+      "slug": "vbivstvo-na-3-mu-poversi",
+      "genres": "Комедія, Детектив",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783386126021?alt=media",
+      "trailer": "https://www.youtube.com/embed/ezVlqr68B2w",
+      "showtimes": [
+        {
+          "time": "17:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vbivstvo-na-3-mu-poversi?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1141",
       "title": "День істини",
       "slug": "den-istini",
@@ -273,23 +290,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/den-istini?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1157",
-      "title": "Вбивство на 3-му поверсі",
-      "slug": "vbivstvo-na-3-mu-poversi",
-      "genres": "Комедія, Детектив",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783386126021?alt=media",
-      "trailer": "https://www.youtube.com/embed/SwlWnyGxiag",
-      "showtimes": [
-        {
-          "time": "17:05",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vbivstvo-na-3-mu-poversi?cinema=ternopil"
     }
   ]
 }
