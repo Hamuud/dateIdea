@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T22:06:36.410207+00:00",
+  "updatedAt": "2026-07-16T22:07:44.513304+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -7,7 +7,7 @@
       "title": "Одіссея",
       "slug": "odisseya",
       "genres": "Епічна історія",
-      "ageLimit": "~16+",
+      "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
       "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
       "showtimes": [
