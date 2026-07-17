@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T22:07:44.513304+00:00",
+  "updatedAt": "2026-07-17T21:58:43.390559+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -60,60 +60,6 @@
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1150",
-      "title": "Ваяна 3Д",
-      "slug": "vayana-3d",
-      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477842651?alt=media",
-      "trailer": "https://www.youtube.com/embed/xwt9kb35NdE",
-      "showtimes": [
-        {
-          "time": "10:35",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "12:50",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "15:05",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "17:20",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vayana-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1151",
-      "title": "Ваяна",
-      "slug": "vayana",
-      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
-      "trailer": "https://www.youtube.com/embed/xwt9kb35NdE",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "14:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1145",
       "title": "Посіпаки і Монстряки 3Д",
       "slug": "posipaki-i-monstryaki-3d",
@@ -153,6 +99,60 @@
       "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki?cinema=ternopil"
     },
     {
+      "id": "ternopil-1150",
+      "title": "Ваяна 3Д",
+      "slug": "vayana-3d",
+      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477842651?alt=media",
+      "trailer": "https://www.youtube.com/embed/xwt9kb35NdE",
+      "showtimes": [
+        {
+          "time": "10:35",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "12:50",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "15:05",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "17:20",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vayana-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1151",
+      "title": "Ваяна",
+      "slug": "vayana",
+      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
+      "trailer": "https://www.youtube.com/embed/vcKqTZwp3rg",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "14:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1133",
       "title": "Брудні гроші",
       "slug": "brudni-groshi",
@@ -175,21 +175,21 @@
       "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1152",
-      "title": "Зловісні мерці у вогні",
-      "slug": "zlovisni-merci-u-vogni",
-      "genres": "Жахи",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844329?alt=media",
-      "trailer": "https://www.youtube.com/embed/27FsdfrKlhw",
+      "id": "ternopil-1126",
+      "title": "Історія іграшок-5",
+      "slug": "istoriya-igrashok-5",
+      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045287?alt=media",
+      "trailer": "https://www.youtube.com/embed/lGRWG3_ZoYY",
       "showtimes": [
         {
-          "time": "12:35",
+          "time": "10:20",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zlovisni-merci-u-vogni?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
     },
     {
       "id": "ternopil-1142",
@@ -214,21 +214,21 @@
       "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1126",
-      "title": "Історія іграшок-5",
-      "slug": "istoriya-igrashok-5",
-      "genres": "Сімейний, Драма, Комедія, Пригоди, Анімація, Фантастика",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1778242045287?alt=media",
-      "trailer": "https://www.youtube.com/embed/lGRWG3_ZoYY",
+      "id": "ternopil-1152",
+      "title": "Зловісні мерці у вогні",
+      "slug": "zlovisni-merci-u-vogni",
+      "genres": "Жахи",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844329?alt=media",
+      "trailer": "https://www.youtube.com/embed/27FsdfrKlhw",
       "showtimes": [
         {
-          "time": "10:20",
+          "time": "12:35",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/istoriya-igrashok-5?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/zlovisni-merci-u-vogni?cinema=ternopil"
     }
   ]
 }
