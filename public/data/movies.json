@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:58:27.157119+00:00",
+  "updatedAt": "2026-07-20T22:05:18.235917+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -41,7 +41,7 @@
       "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
-      "trailer": "https://www.youtube.com/embed/xwt9kb35NdE",
+      "trailer": "https://www.youtube.com/embed/vcKqTZwp3rg",
       "showtimes": [
         {
           "time": "10:00",
@@ -159,7 +159,7 @@
       "genres": "Трилер, Екшн",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
-      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
+      "trailer": "https://www.youtube.com/embed/Ji0Cg5W_R0A",
       "showtimes": [
         {
           "time": "18:10",
