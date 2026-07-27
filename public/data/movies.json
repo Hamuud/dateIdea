@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:03:33.370819+00:00",
+  "updatedAt": "2026-07-27T22:11:59.612423+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -48,7 +48,7 @@
       "genres": "Епічна історія",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
+      "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
       "showtimes": [
         {
           "time": "10:10",
