@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:11:29.697300+00:00",
+  "updatedAt": "2026-07-31T22:09:48.696402+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -61,7 +61,7 @@
       "genres": "Пригоди, Екшн",
       "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477845352?alt=media",
-      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
+      "trailer": "https://www.youtube.com/embed/aaiLR-akpEA",
       "showtimes": [
         {
           "time": "10:00",
@@ -146,23 +146,6 @@
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1151",
-      "title": "Ваяна",
-      "slug": "vayana",
-      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
-      "trailer": "https://www.youtube.com/embed/vcKqTZwp3rg",
-      "showtimes": [
-        {
-          "time": "10:25",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1133",
       "title": "Брудні гроші",
       "slug": "brudni-groshi",
@@ -195,6 +178,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1151",
+      "title": "Ваяна",
+      "slug": "vayana",
+      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
+      "trailer": "https://www.youtube.com/embed/xwt9kb35NdE",
+      "showtimes": [
+        {
+          "time": "10:25",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
     }
   ]
 }
