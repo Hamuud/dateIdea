@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T22:12:06.521419+00:00",
+  "updatedAt": "2026-08-04T22:17:30.023532+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -97,23 +97,6 @@
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den?cinema=ternopil"
     },
     {
-      "id": "ternopil-1146",
-      "title": "Посіпаки і Монстряки",
-      "slug": "posipaki-i-monstryaki",
-      "genres": "Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333716?alt=media",
-      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1153",
       "title": "Одіссея",
       "slug": "odisseya",
@@ -144,23 +127,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "20:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
       "id": "ternopil-1133",
@@ -195,6 +161,40 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "20:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1146",
+      "title": "Посіпаки і Монстряки",
+      "slug": "posipaki-i-monstryaki",
+      "genres": "Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780925333716?alt=media",
+      "trailer": "https://www.youtube.com/embed/CnX8aWXdSoI",
+      "showtimes": [
+        {
+          "time": "10:10",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/posipaki-i-monstryaki?cinema=ternopil"
     }
   ]
 }
