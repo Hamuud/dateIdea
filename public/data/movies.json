@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:01:19.958877+00:00",
+  "updatedAt": "2026-08-07T21:44:50.996943+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -179,7 +179,7 @@
       "title": "Щенячий патруль: Динофільм",
       "slug": "shenyachij-patrul-dinofilm",
       "genres": "Сімейний, Анімаційна пригода",
-      "ageLimit": "~0+",
+      "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451641?alt=media",
       "trailer": "https://www.youtube.com/embed/7XOrXSIDYKo",
       "showtimes": [
