@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:35:46.109433+00:00",
+  "updatedAt": "2026-08-09T21:37:59.565016+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -61,7 +61,7 @@
       "genres": "Пригоди, Екшн",
       "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477845352?alt=media",
-      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
+      "trailer": "https://www.youtube.com/embed/FEUfMhXUitA",
       "showtimes": [
         {
           "time": "10:00",
@@ -124,23 +124,6 @@
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "20:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1160",
       "title": "Щенячий патруль: Динофільм",
       "slug": "shenyachij-patrul-dinofilm",
@@ -168,21 +151,21 @@
       "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
     },
     {
-      "id": "ternopil-1133",
-      "title": "Брудні гроші",
-      "slug": "brudni-groshi",
-      "genres": "Трилер, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
-      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
       "showtimes": [
         {
-          "time": "21:15",
-          "hall": "Зал №4",
+          "time": "20:50",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
       "id": "ternopil-1151",
@@ -208,7 +191,7 @@
       "genres": "Жахи",
       "ageLimit": "18+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785752207680?alt=media",
-      "trailer": "https://www.youtube.com/embed/J_6Ucu5-3SY",
+      "trailer": "https://www.youtube.com/embed/vXL-6bEWL54",
       "showtimes": [
         {
           "time": "14:25",
@@ -217,6 +200,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/morozivnik?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1133",
+      "title": "Брудні гроші",
+      "slug": "brudni-groshi",
+      "genres": "Трилер, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
+      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
+      "showtimes": [
+        {
+          "time": "21:15",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     }
   ]
 }
