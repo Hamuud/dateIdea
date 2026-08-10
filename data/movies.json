@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-09T21:37:59.565016+00:00",
+  "updatedAt": "2026-08-10T21:48:33.651208+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1160",
+      "title": "Щенячий патруль: Динофільм",
+      "slug": "shenyachij-patrul-dinofilm",
+      "genres": "Сімейний, Анімаційна пригода",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451641?alt=media",
+      "trailer": "https://www.youtube.com/embed/7XOrXSIDYKo",
+      "showtimes": [
+        {
+          "time": "10:10",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "12:35",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "16:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
+    },
     {
       "id": "ternopil-1154",
       "title": "Людина-павук: Абсолютно новий день 3Д",
@@ -61,7 +88,7 @@
       "genres": "Пригоди, Екшн",
       "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477845352?alt=media",
-      "trailer": "https://www.youtube.com/embed/FEUfMhXUitA",
+      "trailer": "https://www.youtube.com/embed/los7_EYP3M0",
       "showtimes": [
         {
           "time": "10:00",
@@ -97,13 +124,30 @@
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den?cinema=ternopil"
     },
     {
+      "id": "ternopil-1142",
+      "title": "Обсесія",
+      "slug": "obsesiya",
+      "genres": "Трилер, Психологічний горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
+      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
+      "showtimes": [
+        {
+          "time": "20:50",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1153",
       "title": "Одіссея",
       "slug": "odisseya",
       "genres": "Епічна історія",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
+      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
       "showtimes": [
         {
           "time": "10:05",
@@ -124,48 +168,21 @@
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1160",
-      "title": "Щенячий патруль: Динофільм",
-      "slug": "shenyachij-patrul-dinofilm",
-      "genres": "Сімейний, Анімаційна пригода",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451641?alt=media",
-      "trailer": "https://www.youtube.com/embed/7XOrXSIDYKo",
+      "id": "ternopil-1167",
+      "title": "Морозивник",
+      "slug": "morozivnik",
+      "genres": "Жахи",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785752207680?alt=media",
+      "trailer": "https://www.youtube.com/embed/vXL-6bEWL54",
       "showtimes": [
         {
-          "time": "10:10",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "12:35",
+          "time": "14:25",
           "hall": "Зал №1",
           "format": "2D"
-        },
-        {
-          "time": "16:05",
-          "hall": "Зал №3",
-          "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1142",
-      "title": "Обсесія",
-      "slug": "obsesiya",
-      "genres": "Трилер, Психологічний горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1780419070509?alt=media",
-      "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
-      "showtimes": [
-        {
-          "time": "20:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/morozivnik?cinema=ternopil"
     },
     {
       "id": "ternopil-1151",
@@ -183,23 +200,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1167",
-      "title": "Морозивник",
-      "slug": "morozivnik",
-      "genres": "Жахи",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785752207680?alt=media",
-      "trailer": "https://www.youtube.com/embed/vXL-6bEWL54",
-      "showtimes": [
-        {
-          "time": "14:25",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/morozivnik?cinema=ternopil"
     },
     {
       "id": "ternopil-1133",
