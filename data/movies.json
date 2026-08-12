@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-08-11T21:54:35.378809+00:00",
+  "updatedAt": "2026-08-12T21:52:28.125193+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1153",
-      "title": "Одіссея",
-      "slug": "odisseya",
-      "genres": "Епічна історія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
-      "showtimes": [
-        {
-          "time": "10:05",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "16:20",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:40",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
-    },
     {
       "id": "ternopil-1154",
       "title": "Людина-павук: Абсолютно новий день 3Д",
@@ -54,11 +27,6 @@
           "format": "3D"
         },
         {
-          "time": "14:50",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
           "time": "16:35",
           "hall": "ONYX",
           "format": "3D"
@@ -71,11 +39,6 @@
         {
           "time": "19:25",
           "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "20:30",
-          "hall": "Зал №2",
           "format": "3D"
         }
       ],
@@ -96,28 +59,18 @@
           "format": "2D"
         },
         {
-          "time": "12:50",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
           "time": "13:20",
           "hall": "Зал №3",
           "format": "2D"
         },
         {
-          "time": "15:40",
-          "hall": "Зал №4",
+          "time": "14:50",
+          "hall": "Зал №2",
           "format": "2D"
         },
         {
-          "time": "18:00",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "18:30",
-          "hall": "Зал №4",
+          "time": "20:30",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
@@ -143,6 +96,11 @@
           "format": "2D"
         },
         {
+          "time": "14:25",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
           "time": "16:05",
           "hall": "Зал №3",
           "format": "2D"
@@ -151,21 +109,48 @@
       "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
     },
     {
-      "id": "ternopil-1133",
-      "title": "Брудні гроші",
-      "slug": "brudni-groshi",
-      "genres": "Трилер, Екшн",
+      "id": "ternopil-1159",
+      "title": "Кінець Оук-Стріт",
+      "slug": "kinec-ouk-strit",
+      "genres": "Трилер, Пригоди, Екшн, Фантастика, Горор",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
-      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451421?alt=media",
+      "trailer": "https://www.youtube.com/embed/TfFqOzPfGBo",
       "showtimes": [
         {
-          "time": "21:15",
+          "time": "10:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "17:25",
           "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/kinec-ouk-strit?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1163",
+      "title": "Кузьма: Страшно веселий",
+      "slug": "kuzma-strashno-veselij",
+      "genres": "Документальний, Біографічний",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383303?alt=media",
+      "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
+      "showtimes": [
+        {
+          "time": "12:50",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "19:50",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
     },
     {
       "id": "ternopil-1142",
@@ -177,7 +162,7 @@
       "trailer": "https://www.youtube.com/embed/ADw7ijkr5RU",
       "showtimes": [
         {
-          "time": "20:50",
+          "time": "20:00",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -185,38 +170,65 @@
       "detailUrl": "https://miromax.ua/movies/obsesiya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1151",
-      "title": "Ваяна",
-      "slug": "vayana",
-      "genres": "Сімейний, Комедія, Фентезі, Пригоди, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477843746?alt=media",
-      "trailer": "https://www.youtube.com/embed/vcKqTZwp3rg",
+      "id": "ternopil-1162",
+      "title": "Лише одна ніч",
+      "slug": "lishe-odna-nich",
+      "genres": "Романтична комедія",
+      "ageLimit": "~16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412382823?alt=media",
+      "trailer": "https://www.youtube.com/embed/dS5LPgQFxKU",
       "showtimes": [
         {
-          "time": "10:20",
-          "hall": "Зал №1",
+          "time": "18:00",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/vayana?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/lishe-odna-nich?cinema=ternopil"
     },
     {
-      "id": "ternopil-1167",
-      "title": "Морозивник",
-      "slug": "morozivnik",
-      "genres": "Жахи",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785752207680?alt=media",
-      "trailer": "https://www.youtube.com/embed/vXL-6bEWL54",
+      "id": "ternopil-1153",
+      "title": "Одіссея",
+      "slug": "odisseya",
+      "genres": "Епічна історія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
+      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
       "showtimes": [
         {
-          "time": "14:25",
+          "time": "10:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "16:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "19:40",
           "hall": "Зал №1",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/morozivnik?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1133",
+      "title": "Брудні гроші",
+      "slug": "brudni-groshi",
+      "genres": "Трилер, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1779362524312?alt=media",
+      "trailer": "https://www.youtube.com/embed/AsKrMLTP0P4",
+      "showtimes": [
+        {
+          "time": "15:25",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/brudni-groshi?cinema=ternopil"
     }
   ]
 }
