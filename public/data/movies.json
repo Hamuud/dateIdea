@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:26:56.024235+00:00",
+  "updatedAt": "2026-08-23T21:26:52.898968+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -153,33 +153,6 @@
       "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
     },
     {
-      "id": "ternopil-1163",
-      "title": "Кузьма: Страшно веселий",
-      "slug": "kuzma-strashno-veselij",
-      "genres": "Документальний, Біографічний",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383303?alt=media",
-      "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
-      "showtimes": [
-        {
-          "time": "15:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "17:35",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "20:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1169",
       "title": "Тролі: кучеряві пригоди",
       "slug": "troli-kucheryavi-prigodi",
@@ -229,6 +202,33 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/lishe-odna-nich?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1163",
+      "title": "Кузьма: Страшно веселий",
+      "slug": "kuzma-strashno-veselij",
+      "genres": "Документальний, Біографічний",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383303?alt=media",
+      "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
+      "showtimes": [
+        {
+          "time": "15:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "17:35",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "20:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
     },
     {
       "id": "ternopil-1160",
