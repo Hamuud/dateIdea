@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-08-23T21:26:52.898968+00:00",
+  "updatedAt": "2026-08-24T21:34:47.907575+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1164",
-      "title": "Астрал: За межами потойбіччя",
-      "slug": "astral-za-mezhami-potojbichchya",
-      "genres": "Жахи",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
-      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
-      "showtimes": [
-        {
-          "time": "16:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "20:30",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
-    },
     {
       "id": "ternopil-1158",
       "title": "Звіроферма: Місія на виживання",
@@ -68,7 +41,7 @@
       "genres": "Епічна історія",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
+      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
       "showtimes": [
         {
           "time": "19:00",
@@ -109,6 +82,33 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1164",
+      "title": "Астрал: За межами потойбіччя",
+      "slug": "astral-za-mezhami-potojbichchya",
+      "genres": "Жахи",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
+      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
+      "showtimes": [
+        {
+          "time": "16:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "20:30",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
     },
     {
       "id": "ternopil-1168",
@@ -153,57 +153,6 @@
       "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
     },
     {
-      "id": "ternopil-1169",
-      "title": "Тролі: кучеряві пригоди",
-      "slug": "troli-kucheryavi-prigodi",
-      "genres": "Сімейний, Комедія, Пригоди",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786366844087?alt=media",
-      "trailer": "https://www.youtube.com/embed/CJu55zfNiSk",
-      "showtimes": [
-        {
-          "time": "14:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/troli-kucheryavi-prigodi?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1172",
-      "title": "Лія та кенгуру",
-      "slug": "liya-ta-kenguru",
-      "genres": "Комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622035305?alt=media",
-      "trailer": "https://www.youtube.com/embed/zaiLdhwTrsc",
-      "showtimes": [
-        {
-          "time": "10:30",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/liya-ta-kenguru?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1162",
-      "title": "Лише одна ніч",
-      "slug": "lishe-odna-nich",
-      "genres": "Романтична комедія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412382823?alt=media",
-      "trailer": "https://www.youtube.com/embed/dS5LPgQFxKU",
-      "showtimes": [
-        {
-          "time": "12:40",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/lishe-odna-nich?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1163",
       "title": "Кузьма: Страшно веселий",
       "slug": "kuzma-strashno-veselij",
@@ -246,6 +195,57 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1162",
+      "title": "Лише одна ніч",
+      "slug": "lishe-odna-nich",
+      "genres": "Романтична комедія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412382823?alt=media",
+      "trailer": "https://www.youtube.com/embed/dS5LPgQFxKU",
+      "showtimes": [
+        {
+          "time": "12:40",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/lishe-odna-nich?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1172",
+      "title": "Лія та кенгуру",
+      "slug": "liya-ta-kenguru",
+      "genres": "Комедія",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622035305?alt=media",
+      "trailer": "https://www.youtube.com/embed/zaiLdhwTrsc",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/liya-ta-kenguru?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1169",
+      "title": "Тролі: кучеряві пригоди",
+      "slug": "troli-kucheryavi-prigodi",
+      "genres": "Сімейний, Комедія, Пригоди",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786366844087?alt=media",
+      "trailer": "https://www.youtube.com/embed/CJu55zfNiSk",
+      "showtimes": [
+        {
+          "time": "14:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/troli-kucheryavi-prigodi?cinema=ternopil"
     },
     {
       "id": "ternopil-1159",
