@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:10:07.987715+00:00",
+  "updatedAt": "2026-08-29T03:07:03.250993+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -35,45 +35,6 @@
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
     },
     {
-      "id": "ternopil-1171",
-      "title": "Сузір'я Великого Пса",
-      "slug": "suzirya-velikogo-psa",
-      "genres": "Трилер, Пригоди, Наукова фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622034775?alt=media",
-      "trailer": "https://www.youtube.com/embed/G9bVc3gN0p4",
-      "showtimes": [
-        {
-          "time": "14:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "20:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/suzirya-velikogo-psa?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1160",
-      "title": "Щенячий патруль: Динофільм",
-      "slug": "shenyachij-patrul-dinofilm",
-      "genres": "Сімейний, Анімаційна пригода",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451641?alt=media",
-      "trailer": "https://www.youtube.com/embed/7XOrXSIDYKo",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1164",
       "title": "Астрал: За межами потойбіччя",
       "slug": "astral-za-mezhami-potojbichchya",
@@ -94,6 +55,45 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1160",
+      "title": "Щенячий патруль: Динофільм",
+      "slug": "shenyachij-patrul-dinofilm",
+      "genres": "Сімейний, Анімаційна пригода",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509451641?alt=media",
+      "trailer": "https://www.youtube.com/embed/7XOrXSIDYKo",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1171",
+      "title": "Сузір'я Великого Пса",
+      "slug": "suzirya-velikogo-psa",
+      "genres": "Трилер, Пригоди, Наукова фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622034775?alt=media",
+      "trailer": "https://www.youtube.com/embed/G9bVc3gN0p4",
+      "showtimes": [
+        {
+          "time": "14:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "20:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/suzirya-velikogo-psa?cinema=ternopil"
     },
     {
       "id": "ternopil-1173",
@@ -156,7 +156,7 @@
       "genres": "Епічна історія",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
+      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
       "showtimes": [
         {
           "time": "10:10",
@@ -170,6 +170,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1175",
+      "title": "Іграшка для дорослих",
+      "slug": "igrashka-dlya-doroslih",
+      "genres": "Комедія",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905283?alt=media",
+      "trailer": "https://www.youtube.com/embed/7mURZwEUAhM",
+      "showtimes": [
+        {
+          "time": "21:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/igrashka-dlya-doroslih?cinema=ternopil"
     },
     {
       "id": "ternopil-1174",
@@ -192,23 +209,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/zakolot?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1175",
-      "title": "Іграшка для дорослих",
-      "slug": "igrashka-dlya-doroslih",
-      "genres": "Комедія",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905283?alt=media",
-      "trailer": "https://www.youtube.com/embed/7mURZwEUAhM",
-      "showtimes": [
-        {
-          "time": "21:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/igrashka-dlya-doroslih?cinema=ternopil"
     },
     {
       "id": "ternopil-1163",
