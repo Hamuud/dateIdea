@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-03T23:08:42.600061+00:00",
+  "updatedAt": "2026-09-04T22:55:40.993508+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1153",
+      "title": "Одіссея",
+      "slug": "odisseya",
+      "genres": "Епічна історія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
+      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
+      "showtimes": [
+        {
+          "time": "10:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "17:05",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
+    },
     {
       "id": "ternopil-1163",
       "title": "Кузьма: Страшно веселий",
@@ -28,6 +50,89 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1176",
+      "title": "Койот проти АКМЕ",
+      "slug": "kojot-proti-akme",
+      "genres": "Комедія, Пригоди",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905674?alt=media",
+      "trailer": "https://www.youtube.com/embed/WdP_TOnLW9E",
+      "showtimes": [
+        {
+          "time": "10:10",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "11:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "16:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kojot-proti-akme?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1158",
+      "title": "Звіроферма: Місія на виживання",
+      "slug": "zviroferma-misiya-na-vizhivannya",
+      "genres": "Сімейний, Анімація, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
+      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
+      "showtimes": [
+        {
+          "time": "12:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1171",
+      "title": "Сузір'я Великого Пса",
+      "slug": "suzirya-velikogo-psa",
+      "genres": "Трилер, Пригоди, Наукова фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622034775?alt=media",
+      "trailer": "https://www.youtube.com/embed/G9bVc3gN0p4",
+      "showtimes": [
+        {
+          "time": "20:05",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/suzirya-velikogo-psa?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1178",
+      "title": "Ідеальна зброя",
+      "slug": "idealna-zbroya",
+      "genres": "Трилер, Екшн, Фантастика",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787829999202?alt=media",
+      "trailer": "https://www.youtube.com/embed/zo98RDxQilc",
+      "showtimes": [
+        {
+          "time": "14:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:25",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/idealna-zbroya?cinema=ternopil"
     },
     {
       "id": "ternopil-1154",
@@ -60,28 +165,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1153",
-      "title": "Одіссея",
-      "slug": "odisseya",
-      "genres": "Епічна історія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/5IR9aAx9V1Y",
-      "showtimes": [
-        {
-          "time": "10:20",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "17:05",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
       "id": "ternopil-1174",
@@ -128,53 +211,21 @@
       "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
     },
     {
-      "id": "ternopil-1178",
-      "title": "Ідеальна зброя",
-      "slug": "idealna-zbroya",
-      "genres": "Трилер, Екшн, Фантастика",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787829999202?alt=media",
-      "trailer": "https://www.youtube.com/embed/zo98RDxQilc",
+      "id": "ternopil-1177",
+      "title": "Дисидент",
+      "slug": "disident",
+      "genres": "Драма",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787829998226?alt=media",
+      "trailer": "https://www.youtube.com/embed/xGkAbyeM9Tc",
       "showtimes": [
         {
-          "time": "14:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:25",
-          "hall": "Зал №3",
+          "time": "16:05",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/idealna-zbroya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1176",
-      "title": "Койот проти АКМЕ",
-      "slug": "kojot-proti-akme",
-      "genres": "Комедія, Пригоди",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905674?alt=media",
-      "trailer": "https://www.youtube.com/embed/WdP_TOnLW9E",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "11:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "16:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/kojot-proti-akme?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/disident?cinema=ternopil"
     },
     {
       "id": "ternopil-1164",
@@ -197,40 +248,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1158",
-      "title": "Звіроферма: Місія на виживання",
-      "slug": "zviroferma-misiya-na-vizhivannya",
-      "genres": "Сімейний, Анімація, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
-      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
-      "showtimes": [
-        {
-          "time": "12:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1177",
-      "title": "Дисидент",
-      "slug": "disident",
-      "genres": "Драма",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787829998226?alt=media",
-      "trailer": "https://www.youtube.com/embed/xGkAbyeM9Tc",
-      "showtimes": [
-        {
-          "time": "16:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/disident?cinema=ternopil"
     },
     {
       "id": "ternopil-1173",
@@ -270,23 +287,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/shenyachij-patrul-dinofilm?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1171",
-      "title": "Сузір'я Великого Пса",
-      "slug": "suzirya-velikogo-psa",
-      "genres": "Трилер, Пригоди, Наукова фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786622034775?alt=media",
-      "trailer": "https://www.youtube.com/embed/G9bVc3gN0p4",
-      "showtimes": [
-        {
-          "time": "20:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/suzirya-velikogo-psa?cinema=ternopil"
     }
   ]
 }
