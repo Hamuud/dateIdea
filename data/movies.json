@@ -1,84 +1,13 @@
 {
-  "updatedAt": "2026-09-09T23:06:20.018195+00:00",
+  "updatedAt": "2026-09-10T23:01:58.639313+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1168",
-      "title": "Потяг Червона Рута",
-      "slug": "potyag-chervona-ruta",
-      "genres": "Сімейний, Комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786026805531?alt=media",
-      "trailer": "https://www.youtube.com/embed/lMCGpRDlC-g",
-      "showtimes": [
-        {
-          "time": "11:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "16:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1154",
-      "title": "Людина-павук: Абсолютно новий день 3Д",
-      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
-      "genres": "Пригоди, Екшн, Фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
-      "trailer": "https://www.youtube.com/embed/FEUfMhXUitA",
-      "showtimes": [
-        {
-          "time": "10:45",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "13:40",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "16:35",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "19:30",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1173",
-      "title": "Тед-мандрівник і магічна лампа",
-      "slug": "ted-mandrivnik-i-magichna-lampa",
-      "genres": "Сімейний, Анімаційна пригода",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571904237?alt=media",
-      "trailer": "https://www.youtube.com/embed/3xndGVTG04w",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/ted-mandrivnik-i-magichna-lampa?cinema=ternopil"
-    },
     {
       "id": "ternopil-1180",
       "title": "Практична магія-2",
       "slug": "praktichna-magiya-2",
       "genres": "Драма, Комедія, Фентезі",
-      "ageLimit": "~16+",
+      "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787830000104?alt=media",
       "trailer": "https://www.youtube.com/embed/EdLPV_lT6Qc",
       "showtimes": [
@@ -109,6 +38,38 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/praktichna-magiya-2?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1154",
+      "title": "Людина-павук: Абсолютно новий день 3Д",
+      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
+      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
+      "showtimes": [
+        {
+          "time": "10:45",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "13:40",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "16:35",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "19:30",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1160",
@@ -145,21 +106,21 @@
       "detailUrl": "https://miromax.ua/movies/suzirya-velikogo-psa?cinema=ternopil"
     },
     {
-      "id": "ternopil-1176",
-      "title": "Койот проти АКМЕ",
-      "slug": "kojot-proti-akme",
-      "genres": "Комедія, Пригоди",
+      "id": "ternopil-1173",
+      "title": "Тед-мандрівник і магічна лампа",
+      "slug": "ted-mandrivnik-i-magichna-lampa",
+      "genres": "Сімейний, Анімаційна пригода",
       "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905674?alt=media",
-      "trailer": "https://www.youtube.com/embed/urUw-PD1-jw",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571904237?alt=media",
+      "trailer": "https://www.youtube.com/embed/3xndGVTG04w",
       "showtimes": [
         {
-          "time": "10:20",
-          "hall": "Зал №1",
+          "time": "10:10",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/kojot-proti-akme?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/ted-mandrivnik-i-magichna-lampa?cinema=ternopil"
     },
     {
       "id": "ternopil-1164",
@@ -179,55 +140,21 @@
       "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1188",
-      "title": "Відважний Давид проти велетня",
-      "slug": "vidvazhnij-david-proti-veletnya",
-      "genres": "Пригоди, Анімація",
-      "ageLimit": "~0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788783420860?alt=media",
-      "trailer": "https://www.youtube.com/embed/760NdUIlEtU",
+      "id": "ternopil-1190",
+      "title": "Хранитель Камфорного дерева",
+      "slug": "hranitel-kamfornogo-dereva",
+      "genres": "Аніме",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788884364835?alt=media",
+      "trailer": "https://www.youtube.com/embed/8kXzhAJENqo",
       "showtimes": [
         {
-          "time": "13:40",
-          "hall": "Зал №2",
+          "time": "14:15",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/vidvazhnij-david-proti-veletnya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1183",
-      "title": "Справжній герой",
-      "slug": "spravzhnij-geroj",
-      "genres": "Комедія, Трилер",
-      "ageLimit": "~16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787845225285?alt=media",
-      "trailer": "https://www.youtube.com/embed/cqoK4BXfKzQ",
-      "showtimes": [
-        {
-          "time": "21:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/spravzhnij-geroj?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1153",
-      "title": "Одіссея",
-      "slug": "odisseya",
-      "genres": "Епічна історія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
-      "showtimes": [
-        {
-          "time": "19:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/hranitel-kamfornogo-dereva?cinema=ternopil"
     },
     {
       "id": "ternopil-1163",
@@ -257,11 +184,45 @@
       "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
     },
     {
+      "id": "ternopil-1153",
+      "title": "Одіссея",
+      "slug": "odisseya",
+      "genres": "Епічна історія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
+      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
+      "showtimes": [
+        {
+          "time": "19:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1183",
+      "title": "Справжній герой",
+      "slug": "spravzhnij-geroj",
+      "genres": "Комедія, Трилер",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787845225285?alt=media",
+      "trailer": "https://www.youtube.com/embed/cqoK4BXfKzQ",
+      "showtimes": [
+        {
+          "time": "21:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/spravzhnij-geroj?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1189",
       "title": "Над безоднею-2",
       "slug": "nad-bezodneyu-2",
       "genres": "Драма, Трилер, Пригоди",
-      "ageLimit": "~16+",
+      "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788783421343?alt=media",
       "trailer": "https://www.youtube.com/embed/ZQbOJBEkvRc",
       "showtimes": [
@@ -272,6 +233,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/nad-bezodneyu-2?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1176",
+      "title": "Койот проти АКМЕ",
+      "slug": "kojot-proti-akme",
+      "genres": "Комедія, Пригоди",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787571905674?alt=media",
+      "trailer": "https://www.youtube.com/embed/urUw-PD1-jw",
+      "showtimes": [
+        {
+          "time": "10:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kojot-proti-akme?cinema=ternopil"
     },
     {
       "id": "ternopil-1158",
@@ -291,11 +269,28 @@
       "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
     },
     {
+      "id": "ternopil-1188",
+      "title": "Відважний Давид проти велетня",
+      "slug": "vidvazhnij-david-proti-veletnya",
+      "genres": "Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788783420860?alt=media",
+      "trailer": "https://www.youtube.com/embed/760NdUIlEtU",
+      "showtimes": [
+        {
+          "time": "13:40",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/vidvazhnij-david-proti-veletnya?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1181",
       "title": "Санаторій Горького. Поєдинок",
       "slug": "sanatorij-gorkogo-poyedinok",
       "genres": "Драма, Історична драма",
-      "ageLimit": "~16+",
+      "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787833896269?alt=media",
       "trailer": "https://www.youtube.com/embed/lB93MvyO6W8",
       "showtimes": [
@@ -306,6 +301,28 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/sanatorij-gorkogo-poyedinok?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1168",
+      "title": "Потяг Червона Рута",
+      "slug": "potyag-chervona-ruta",
+      "genres": "Сімейний, Комедія",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786026805531?alt=media",
+      "trailer": "https://www.youtube.com/embed/lMCGpRDlC-g",
+      "showtimes": [
+        {
+          "time": "11:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "16:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
     }
   ]
 }
