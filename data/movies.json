@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:32:53.022000+00:00",
+  "updatedAt": "2026-09-23T23:30:50.629191+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -12,22 +12,27 @@
       "trailer": "https://www.youtube.com/embed/gMDipfUXzvA",
       "showtimes": [
         {
-          "time": "10:30",
+          "time": "10:55",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
-          "time": "12:40",
+          "time": "12:25",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "14:25",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "16:50",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
           "time": "18:50",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "20:50",
           "hall": "Зал №4",
           "format": "2D"
         }
@@ -44,44 +49,12 @@
       "trailer": "https://www.youtube.com/embed/3xndGVTG04w",
       "showtimes": [
         {
-          "time": "10:00",
+          "time": "10:30",
           "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/ted-mandrivnik-i-magichna-lampa?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1192",
-      "title": "Resident Evil: Оселя Зла",
-      "slug": "resident-evil-oselya-zla",
-      "genres": "Зомбі-горор, Горор, Психологічний горор",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434165656?alt=media",
-      "trailer": "https://www.youtube.com/embed/0GAZKoD5MBE",
-      "showtimes": [
-        {
-          "time": "12:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "14:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "16:50",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "21:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/resident-evil-oselya-zla?cinema=ternopil"
     },
     {
       "id": "ternopil-1154",
@@ -93,12 +66,7 @@
       "trailer": "https://www.youtube.com/embed/FEUfMhXUitA",
       "showtimes": [
         {
-          "time": "10:45",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "13:40",
+          "time": "10:15",
           "hall": "ONYX",
           "format": "3D"
         },
@@ -106,14 +74,105 @@
           "time": "16:35",
           "hall": "ONYX",
           "format": "3D"
-        },
-        {
-          "time": "19:35",
-          "hall": "ONYX",
-          "format": "3D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1192",
+      "title": "Resident Evil: Оселя Зла",
+      "slug": "resident-evil-oselya-zla",
+      "genres": "Зомбі-горор, Горор, Психологічний горор",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434165656?alt=media",
+      "trailer": "https://www.youtube.com/embed/0GAZKoD5MBE",
+      "showtimes": [
+        {
+          "time": "12:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "14:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "17:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "20:50",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/resident-evil-oselya-zla?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "12:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "13:55",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "16:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "21:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1199",
+      "title": "Спа-вікенд",
+      "slug": "spa-vikend",
+      "genres": "Комедія",
+      "ageLimit": "~16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244761?alt=media",
+      "trailer": "https://www.youtube.com/embed/mY3ccZsPiB8",
+      "showtimes": [
+        {
+          "time": "15:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "21:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/spa-vikend?cinema=ternopil"
     },
     {
       "id": "ternopil-1163",
@@ -125,17 +184,34 @@
       "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
       "showtimes": [
         {
-          "time": "14:40",
+          "time": "14:35",
           "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "17:40",
-          "hall": "Зал №2",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "~12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
+      "showtimes": [
+        {
+          "time": "13:05",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "19:35",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1153",
@@ -155,6 +231,23 @@
       "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
+      "id": "ternopil-1164",
+      "title": "Астрал: За межами потойбіччя",
+      "slug": "astral-za-mezhami-potojbichchya",
+      "genres": "Жахи",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
+      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
+      "showtimes": [
+        {
+          "time": "17:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1158",
       "title": "Звіроферма: Місія на виживання",
       "slug": "zviroferma-misiya-na-vizhivannya",
@@ -164,7 +257,7 @@
       "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
       "showtimes": [
         {
-          "time": "12:35",
+          "time": "12:30",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -181,34 +274,12 @@
       "trailer": "https://www.youtube.com/embed/EnYeMGstmnM",
       "showtimes": [
         {
-          "time": "14:25",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
           "time": "19:20",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/prikinsya-mertvim?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1164",
-      "title": "Астрал: За межами потойбіччя",
-      "slug": "astral-za-mezhami-potojbichchya",
-      "genres": "Жахи",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
-      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
-      "showtimes": [
-        {
-          "time": "20:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
     },
     {
       "id": "ternopil-1191",
@@ -220,119 +291,12 @@
       "trailer": "https://www.youtube.com/embed/xu9H8q2OHA4",
       "showtimes": [
         {
-          "time": "13:55",
-          "hall": "Зал №2",
+          "time": "10:40",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/tayemne-zhittya-rechej?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1185",
-      "title": "Біжи!",
-      "slug": "bizhi",
-      "genres": "Трилер, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787845226698?alt=media",
-      "trailer": "https://www.youtube.com/embed/2ZG4RCYqeUc",
-      "showtimes": [
-        {
-          "time": "21:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/bizhi?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1180",
-      "title": "Практична магія-2",
-      "slug": "praktichna-magiya-2",
-      "genres": "Драма, Комедія, Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787830000104?alt=media",
-      "trailer": "https://www.youtube.com/embed/EdLPV_lT6Qc",
-      "showtimes": [
-        {
-          "time": "11:55",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/praktichna-magiya-2?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1188",
-      "title": "Відважний Давид проти велетня",
-      "slug": "vidvazhnij-david-proti-veletnya",
-      "genres": "Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788783420860?alt=media",
-      "trailer": "https://www.youtube.com/embed/760NdUIlEtU",
-      "showtimes": [
-        {
-          "time": "10:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/vidvazhnij-david-proti-veletnya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1187",
-      "title": "Тюнер",
-      "slug": "tyuner",
-      "genres": "Драма, Трилер, Кримінал, Романтичний",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787845227297?alt=media",
-      "trailer": "https://www.youtube.com/embed/Elo6AB7qqyk",
-      "showtimes": [
-        {
-          "time": "17:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/tyuner?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1168",
-      "title": "Потяг Червона Рута",
-      "slug": "potyag-chervona-ruta",
-      "genres": "Сімейний, Комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1786026805531?alt=media",
-      "trailer": "https://www.youtube.com/embed/lMCGpRDlC-g",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "15:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/potyag-chervona-ruta?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1189",
-      "title": "Над безоднею-2",
-      "slug": "nad-bezodneyu-2",
-      "genres": "Драма, Трилер, Пригоди",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1788783421343?alt=media",
-      "trailer": "https://www.youtube.com/embed/5ZveUtghsng",
-      "showtimes": [
-        {
-          "time": "16:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/nad-bezodneyu-2?cinema=ternopil"
     }
   ]
 }
