@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T23:54:29.801137+00:00",
+  "updatedAt": "2026-09-26T23:27:39.060375+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -18,6 +18,67 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/ted-mandrivnik-i-magichna-lampa?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
+      "showtimes": [
+        {
+          "time": "13:05",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "19:35",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1154",
+      "title": "Людина-павук: Абсолютно новий день 3Д",
+      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
+      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
+      "showtimes": [
+        {
+          "time": "10:15",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "16:35",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1153",
+      "title": "Одіссея",
+      "slug": "odisseya",
+      "genres": "Епічна історія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
+      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
+      "showtimes": [
+        {
+          "time": "18:05",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
       "id": "ternopil-1195",
@@ -57,67 +118,6 @@
       "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
-      "id": "ternopil-1196",
-      "title": "Месники: Завершення. Екстра 3Д",
-      "slug": "mesniki-zavershennya-ekstra-3d",
-      "genres": "Пригоди, Супергеройський екшн",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
-      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
-      "showtimes": [
-        {
-          "time": "13:05",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "19:35",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1154",
-      "title": "Людина-павук: Абсолютно новий день 3Д",
-      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
-      "genres": "Пригоди, Екшн, Фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
-      "trailer": "https://www.youtube.com/embed/FEUfMhXUitA",
-      "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "16:35",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1153",
-      "title": "Одіссея",
-      "slug": "odisseya",
-      "genres": "Епічна історія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/0PPX_98KEx0",
-      "showtimes": [
-        {
-          "time": "18:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1158",
       "title": "Звіроферма: Місія на виживання",
       "slug": "zviroferma-misiya-na-vizhivannya",
@@ -133,6 +133,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1164",
+      "title": "Астрал: За межами потойбіччя",
+      "slug": "astral-za-mezhami-potojbichchya",
+      "genres": "Жахи",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
+      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
+      "showtimes": [
+        {
+          "time": "15:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
     },
     {
       "id": "ternopil-1193",
@@ -170,23 +187,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/rodichi?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1164",
-      "title": "Астрал: За межами потойбіччя",
-      "slug": "astral-za-mezhami-potojbichchya",
-      "genres": "Жахи",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
-      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
-      "showtimes": [
-        {
-          "time": "15:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
     },
     {
       "id": "ternopil-1192",
@@ -260,6 +260,23 @@
       "detailUrl": "https://miromax.ua/movies/prikinsya-mertvim?cinema=ternopil"
     },
     {
+      "id": "ternopil-1191",
+      "title": "Таємне життя речей",
+      "slug": "tayemne-zhittya-rechej",
+      "genres": "Фентезі, Пригоди",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434165154?alt=media",
+      "trailer": "https://www.youtube.com/embed/xu9H8q2OHA4",
+      "showtimes": [
+        {
+          "time": "10:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/tayemne-zhittya-rechej?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1163",
       "title": "Кузьма: Страшно веселий",
       "slug": "kuzma-strashno-veselij",
@@ -275,23 +292,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1191",
-      "title": "Таємне життя речей",
-      "slug": "tayemne-zhittya-rechej",
-      "genres": "Фентезі, Пригоди",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434165154?alt=media",
-      "trailer": "https://www.youtube.com/embed/ZJizI5Wf678",
-      "showtimes": [
-        {
-          "time": "10:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/tayemne-zhittya-rechej?cinema=ternopil"
     },
     {
       "id": "ternopil-1199",
