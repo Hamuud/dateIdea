@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-09-27T23:43:24.223851+00:00",
+  "updatedAt": "2026-09-29T00:53:45.487288+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1153",
-      "title": "Одіссея",
-      "slug": "odisseya",
-      "genres": "Епічна історія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
-      "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
-      "showtimes": [
-        {
-          "time": "18:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
-    },
     {
       "id": "ternopil-1154",
       "title": "Людина-павук: Абсолютно новий день 3Д",
@@ -89,6 +72,45 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/resident-evil-oselya-zla?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1182",
+      "title": "Неадеквати",
+      "slug": "neadekvati",
+      "genres": "Комедія, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787833896972?alt=media",
+      "trailer": "https://www.youtube.com/embed/fD10QrKBoh4",
+      "showtimes": [
+        {
+          "time": "17:55",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "19:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/neadekvati?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1163",
+      "title": "Кузьма: Страшно веселий",
+      "slug": "kuzma-strashno-veselij",
+      "genres": "Документальний, Біографічний",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383303?alt=media",
+      "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
+      "showtimes": [
+        {
+          "time": "14:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
     },
     {
       "id": "ternopil-1195",
@@ -182,26 +204,55 @@
       "detailUrl": "https://miromax.ua/movies/rodichi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1182",
-      "title": "Неадеквати",
-      "slug": "neadekvati",
-      "genres": "Комедія, Екшн",
+      "id": "ternopil-1164",
+      "title": "Астрал: За межами потойбіччя",
+      "slug": "astral-za-mezhami-potojbichchya",
+      "genres": "Жахи",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1787833896972?alt=media",
-      "trailer": "https://www.youtube.com/embed/fD10QrKBoh4",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
+      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
       "showtimes": [
         {
-          "time": "17:55",
+          "time": "15:50",
           "hall": "Зал №2",
           "format": "2D"
-        },
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1199",
+      "title": "Спа-вікенд",
+      "slug": "spa-vikend",
+      "genres": "Комедія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244761?alt=media",
+      "trailer": "https://www.youtube.com/embed/mY3ccZsPiB8",
+      "showtimes": [
         {
-          "time": "19:20",
+          "time": "21:20",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/neadekvati?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/spa-vikend?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1194",
+      "title": "Прикинься мертвим",
+      "slug": "prikinsya-mertvim",
+      "genres": "Драма, Трилер, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434166976?alt=media",
+      "trailer": "https://www.youtube.com/embed/EnYeMGstmnM",
+      "showtimes": [
+        {
+          "time": "21:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/prikinsya-mertvim?cinema=ternopil"
     },
     {
       "id": "ternopil-1196",
@@ -226,78 +277,27 @@
       "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
     },
     {
-      "id": "ternopil-1164",
-      "title": "Астрал: За межами потойбіччя",
-      "slug": "astral-za-mezhami-potojbichchya",
-      "genres": "Жахи",
+      "id": "ternopil-1153",
+      "title": "Одіссея",
+      "slug": "odisseya",
+      "genres": "Епічна історія",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383751?alt=media",
-      "trailer": "https://www.youtube.com/embed/VgSX1ys1EOs",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844738?alt=media",
+      "trailer": "https://www.youtube.com/embed/S9OIqxPKhSo",
       "showtimes": [
         {
-          "time": "15:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/astral-za-mezhami-potojbichchya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1163",
-      "title": "Кузьма: Страшно веселий",
-      "slug": "kuzma-strashno-veselij",
-      "genres": "Документальний, Біографічний",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1785412383303?alt=media",
-      "trailer": "https://www.youtube.com/embed/eAwCnZw9Pp4",
-      "showtimes": [
-        {
-          "time": "14:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/kuzma-strashno-veselij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1194",
-      "title": "Прикинься мертвим",
-      "slug": "prikinsya-mertvim",
-      "genres": "Драма, Трилер, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434166976?alt=media",
-      "trailer": "https://www.youtube.com/embed/EnYeMGstmnM",
-      "showtimes": [
-        {
-          "time": "21:20",
+          "time": "18:05",
           "hall": "Зал №1",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/prikinsya-mertvim?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1199",
-      "title": "Спа-вікенд",
-      "slug": "spa-vikend",
-      "genres": "Комедія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244761?alt=media",
-      "trailer": "https://www.youtube.com/embed/mY3ccZsPiB8",
-      "showtimes": [
-        {
-          "time": "21:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/spa-vikend?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/odisseya?cinema=ternopil"
     },
     {
       "id": "ternopil-1191",
       "title": "Таємне життя речей",
       "slug": "tayemne-zhittya-rechej",
-      "genres": "Фентезі, Пригоди",
+      "genres": "Пригоди, Фентезі",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434165154?alt=media",
       "trailer": "https://www.youtube.com/embed/xu9H8q2OHA4",
