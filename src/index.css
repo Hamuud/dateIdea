@@ -491,6 +491,22 @@ body {
   text-align: center;
 }
 
+.btn-back {
+  font-family: inherit;
+  background: none;
+  border: none;
+  padding: 0.25rem 0;
+  margin-bottom: 1rem;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.btn-back:hover {
+  color: var(--accent-2);
+}
+
 .booking-card .btn-hero {
   width: 100%;
   margin-top: 0.5rem;

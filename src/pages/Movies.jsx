@@ -47,6 +47,25 @@ export default function Movies() {
       .catch(() => {})
   }, [refresh])
 
+  useEffect(() => {
+    if (!liveMovies) return
+    try {
+      const y = sessionStorage.getItem('moviesScroll')
+      if (y) {
+        sessionStorage.removeItem('moviesScroll')
+        requestAnimationFrame(() => window.scrollTo({ top: Number(y), behavior: 'instant' }))
+      }
+    } catch {}
+  }, [liveMovies])
+
+  const openBooking = (movie) => {
+    try {
+      sessionStorage.setItem('moviesScroll', String(window.scrollY))
+    } catch {}
+    window.scrollTo({ top: 0, behavior: 'instant' })
+    navigate('/book', { state: { movie } })
+  }
+
   const movies = (liveMovies || staticMovies).map(m => ({ ...m, poster: withCacheBust(m.poster, refresh) }))
 
   return (
@@ -63,7 +82,7 @@ export default function Movies() {
             key={movie.id}
             movie={movie}
             onTrailer={setTrailerMovie}
-            onBook={(m) => navigate('/book', { state: { movie: m } })}
+            onBook={openBooking}
           />
         ))}
       </div>

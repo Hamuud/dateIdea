@@ -21,6 +21,8 @@ export default function Booking() {
     return null
   }
 
+  const movieLabel = movie.titleUA ? `${movie.title} (${movie.titleUA})` : movie.title
+
   const update = (field) => (e) => setForm((f) => ({ ...f, [field]: e.target.value }))
 
   const handleSubmit = async (e) => {
@@ -30,7 +32,7 @@ export default function Booking() {
 
     try {
       await sendBooking({
-        movie: `${movie.title} (${movie.titleUA})`,
+        movie: movieLabel,
         showtime: form.showtime,
         pickupTime: form.pickupTime,
         name: form.name,
@@ -47,12 +49,15 @@ export default function Booking() {
   return (
     <div className="page booking-page">
       <div className="booking-card">
+        <button type="button" className="btn-back" onClick={() => navigate(-1)}>
+          ← Обрати інший фільм
+        </button>
         <h2 className="section-title">Забронюй квиток 🎟️</h2>
 
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <label>Фільм</label>
-            <input type="text" value={`${movie.title} (${movie.titleUA})`} readOnly />
+            <input type="text" value={movieLabel} readOnly />
           </div>
 
           <div className="form-group">
