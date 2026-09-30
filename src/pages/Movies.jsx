@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useNavigate, useLocation } from 'react-router-dom'
 import staticMovies from '../data/movies'
 import MovieCard from '../components/MovieCard'
 import TrailerModal from '../components/TrailerModal'
@@ -20,14 +20,20 @@ function adaptScrapedMovie(movie, index) {
   }
 }
 
+function withCacheBust(url, token) {
+  if (!url || !token) return url
+  return `${url}${url.includes('?') ? '&' : '?'}v=${token}`
+}
+
 export default function Movies() {
   const navigate = useNavigate()
+  const refresh = useLocation().state?.refresh
   const [trailerMovie, setTrailerMovie] = useState(null)
   const [liveMovies, setLiveMovies] = useState(null)
   const [updatedAt, setUpdatedAt] = useState(null)
 
   useEffect(() => {
-    fetch('./data/movies.json')
+    fetch(withCacheBust('./data/movies.json', refresh), refresh ? { cache: 'no-store' } : undefined)
       .then(r => {
         if (!r.ok) throw new Error('not found')
         return r.json()
@@ -39,9 +45,9 @@ export default function Movies() {
         }
       })
       .catch(() => {})
-  }, [])
+  }, [refresh])
 
-  const movies = liveMovies || staticMovies
+  const movies = (liveMovies || staticMovies).map(m => ({ ...m, poster: withCacheBust(m.poster, refresh) }))
 
   return (
     <div className="page movies-page">

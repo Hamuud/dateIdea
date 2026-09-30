@@ -195,6 +195,17 @@ body {
   margin-bottom: 1.5rem;
 }
 
+/* Block layout: some iOS Safari versions size a grid inside a min-height flex column to the viewport height */
+.movies-page {
+  display: block;
+}
+
+.movies-page .section-title {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ---- Movies Grid ---- */
 .movies-grid {
   display: grid;
@@ -202,6 +213,7 @@ body {
   gap: 1.5rem;
   max-width: 1100px;
   width: 100%;
+  margin: 0 auto;
 }
 
 /* ---- Movie Card ---- */
@@ -211,7 +223,6 @@ body {
   -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--border-glass);
   border-radius: 20px;
-  overflow: hidden;
   transition: transform 0.3s, box-shadow 0.3s;
   animation: fadeUp 0.6s ease-out both;
 }
@@ -226,6 +237,7 @@ body {
   width: 100%;
   aspect-ratio: 2/3;
   overflow: hidden;
+  border-radius: 19px 19px 0 0;
 }
 
 .movie-poster img {

@@ -23,7 +23,7 @@ export default function Home() {
           Ми ж йдемо в кіно? <span className="title-emoji">🎬</span>
         </h1>
         <div className="home-buttons">
-          <button className="btn btn-hero" onClick={() => navigate('/movies')}>
+          <button className="btn btn-hero" onClick={() => navigate('/movies', { state: { refresh: Date.now() } })}>
             ТАК
           </button>
           <button
