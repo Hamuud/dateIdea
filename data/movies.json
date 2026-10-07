@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-10-06T01:42:08.790361+00:00",
+  "updatedAt": "2026-10-07T00:30:54.629161+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "12:25",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "16:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "21:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
     {
       "id": "ternopil-1197",
       "title": "Веріті",
@@ -90,6 +63,77 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "12:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "16:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "21:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/xe5pF3gRRCQ",
+      "showtimes": [
+        {
+          "time": "12:50",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "16:15",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "19:40",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1154",
+      "title": "Людина-павук: Абсолютно новий день 3Д",
+      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
+      "genres": "Пригоди, Екшн, Фантастика",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
+      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1158",
@@ -197,50 +241,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/resident-evil-oselya-zla?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1196",
-      "title": "Месники: Завершення. Екстра 3Д",
-      "slug": "mesniki-zavershennya-ekstra-3d",
-      "genres": "Пригоди, Супергеройський екшн",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
-      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
-      "showtimes": [
-        {
-          "time": "12:50",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "16:15",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "19:40",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1154",
-      "title": "Людина-павук: Абсолютно новий день 3Д",
-      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
-      "genres": "Пригоди, Екшн, Фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
-      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1200",
