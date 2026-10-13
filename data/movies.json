@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:22:16.377298+00:00",
+  "updatedAt": "2026-10-13T02:29:19.464544+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -28,23 +28,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1213",
-      "title": "Квіткар",
-      "slug": "kvitkar",
-      "genres": "Трилер, Екшн, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791222105644?alt=media",
-      "trailer": "https://www.youtube.com/embed/BoOEqmHeXt0",
-      "showtimes": [
-        {
-          "time": "21:30",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/kvitkar?cinema=ternopil"
     },
     {
       "id": "ternopil-1197",
@@ -148,28 +131,6 @@
       "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
     },
     {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "18:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "20:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1154",
       "title": "Людина-павук: Абсолютно новий день 3Д",
       "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
@@ -185,23 +146,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1158",
-      "title": "Звіроферма: Місія на виживання",
-      "slug": "zviroferma-misiya-na-vizhivannya",
-      "genres": "Сімейний, Анімація, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
-      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
-      "showtimes": [
-        {
-          "time": "12:25",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
     },
     {
       "id": "ternopil-1214",
@@ -238,6 +182,28 @@
       "detailUrl": "https://miromax.ua/movies/zakoni-royu?cinema=ternopil"
     },
     {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "18:15",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "20:20",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1208",
       "title": "Інша мама",
       "slug": "insha-mama",
@@ -260,6 +226,23 @@
       "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
+      "id": "ternopil-1213",
+      "title": "Квіткар",
+      "slug": "kvitkar",
+      "genres": "Трилер, Екшн, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791222105644?alt=media",
+      "trailer": "https://www.youtube.com/embed/BoOEqmHeXt0",
+      "showtimes": [
+        {
+          "time": "21:30",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kvitkar?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1209",
       "title": "Соціальна розплата",
       "slug": "socialna-rozplata",
@@ -275,6 +258,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/socialna-rozplata?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1158",
+      "title": "Звіроферма: Місія на виживання",
+      "slug": "zviroferma-misiya-na-vizhivannya",
+      "genres": "Сімейний, Анімація, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
+      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
+      "showtimes": [
+        {
+          "time": "12:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
     }
   ]
 }
