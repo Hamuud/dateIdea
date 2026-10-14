@@ -1,24 +1,7 @@
 {
-  "updatedAt": "2026-10-14T00:12:31.235458+00:00",
+  "updatedAt": "2026-10-14T23:47:57.850161+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "18:15",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
     {
       "id": "ternopil-1158",
       "title": "Звіроферма: Місія на виживання",
@@ -46,8 +29,13 @@
       "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
       "showtimes": [
         {
-          "time": "13:20",
+          "time": "12:30",
           "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "16:05",
+          "hall": "Зал №2",
           "format": "2D"
         },
         {
@@ -57,6 +45,28 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1212",
+      "title": "Дівчинка-хмаринка",
+      "slug": "divchinka-hmarinka",
+      "genres": "Фентезі, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
+      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "14:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
     },
     {
       "id": "ternopil-1197",
@@ -78,28 +88,13 @@
           "format": "2D"
         },
         {
-          "time": "14:25",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
           "time": "15:25",
           "hall": "Зал №1",
           "format": "2D"
         },
         {
-          "time": "16:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
           "time": "17:45",
           "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:10",
-          "hall": "Зал №3",
           "format": "2D"
         },
         {
@@ -111,31 +106,31 @@
       "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
     },
     {
-      "id": "ternopil-1207",
-      "title": "Крашанка 2.0. Квантовий парадокс",
-      "slug": "krashanka-20-kvantovij-paradoks",
-      "genres": "Сімейний, Лірична комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328338?alt=media",
-      "trailer": "https://www.youtube.com/embed/HJ9Sd1GIMaE",
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
       "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
         {
           "time": "12:15",
           "hall": "Зал №3",
           "format": "2D"
         },
         {
-          "time": "20:20",
+          "time": "16:35",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:40",
           "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/krashanka-20-kvantovij-paradoks?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
       "id": "ternopil-1196",
@@ -147,17 +142,17 @@
       "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
       "showtimes": [
         {
-          "time": "12:50",
+          "time": "11:00",
           "hall": "ONYX",
           "format": "3D"
         },
         {
-          "time": "16:20",
+          "time": "14:45",
           "hall": "ONYX",
           "format": "3D"
         },
         {
-          "time": "19:50",
+          "time": "18:25",
           "hall": "ONYX",
           "format": "3D"
         }
@@ -165,116 +160,97 @@
       "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
     },
     {
-      "id": "ternopil-1212",
-      "title": "Дівчинка-хмаринка",
-      "slug": "divchinka-hmarinka",
-      "genres": "Фентезі, Анімація",
+      "id": "ternopil-1207",
+      "title": "Крашанка 2.0. Квантовий парадокс",
+      "slug": "krashanka-20-kvantovij-paradoks",
+      "genres": "Сімейний, Лірична комедія",
       "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
-      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328338?alt=media",
+      "trailer": "https://www.youtube.com/embed/HJ9Sd1GIMaE",
       "showtimes": [
         {
-          "time": "10:30",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "14:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "16:05",
-          "hall": "Зал №2",
+          "time": "10:20",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/krashanka-20-kvantovij-paradoks?cinema=ternopil"
     },
     {
-      "id": "ternopil-1154",
-      "title": "Людина-павук: Абсолютно новий день 3Д",
-      "slug": "lyudina-pavuk-absolyutno-novij-den-3d",
-      "genres": "Пригоди, Екшн, Фантастика",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1782477844930?alt=media",
-      "trailer": "https://www.youtube.com/embed/NnOltqaBsc8",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/lyudina-pavuk-absolyutno-novij-den-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1203",
-      "title": "Закони рою",
-      "slug": "zakoni-royu",
-      "genres": "Драма, Трилер, Кримінал",
+      "id": "ternopil-1210",
+      "title": "Street Fighter: Вуличний боєць",
+      "slug": "street-fighter-vulichnij-boyec",
+      "genres": "Екшн",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596180660?alt=media",
-      "trailer": "https://www.youtube.com/embed/ov7k7wnQyxM",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
+      "trailer": "https://www.youtube.com/embed/D9pLT6hlJAo",
       "showtimes": [
         {
-          "time": "10:40",
+          "time": "10:10",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "16:25",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "20:45",
           "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zakoni-royu?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
     },
     {
-      "id": "ternopil-1209",
-      "title": "Соціальна розплата",
-      "slug": "socialna-rozplata",
-      "genres": "Біографічний",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328924?alt=media",
-      "trailer": "https://www.youtube.com/embed/putnJzZjfSo",
+      "id": "ternopil-1219",
+      "title": "Чарлі та Гарпер: Історія кохання",
+      "slug": "charli-ta-garper-istoriya-kohannya",
+      "genres": "Романтична драма",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
+      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
       "showtimes": [
+        {
+          "time": "14:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
         {
           "time": "18:00",
           "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/socialna-rozplata?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
     },
     {
-      "id": "ternopil-1213",
-      "title": "Квіткар",
-      "slug": "kvitkar",
-      "genres": "Трилер, Екшн, Кримінал",
+      "id": "ternopil-1204",
+      "title": "Падіння кита",
+      "slug": "padinnya-kita",
+      "genres": "Драма, Трилер, Пригоди",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791222105644?alt=media",
-      "trailer": "https://www.youtube.com/embed/BoOEqmHeXt0",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181027?alt=media",
+      "trailer": "https://www.youtube.com/embed/nnGfVAe_YTQ",
       "showtimes": [
         {
-          "time": "21:30",
+          "time": "14:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "19:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "21:15",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/kvitkar?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1214",
-      "title": "Спецвідділ: Перше вбивство",
-      "slug": "specviddil-pershe-vbivstvo",
-      "genres": "Трилер, Детектив, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791276108822?alt=media",
-      "trailer": "https://www.youtube.com/embed/uwLglPlgdco",
-      "showtimes": [
-        {
-          "time": "15:35",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/specviddil-pershe-vbivstvo?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/padinnya-kita?cinema=ternopil"
     }
   ]
 }
