@@ -1,72 +1,60 @@
 {
-  "updatedAt": "2026-10-14T23:47:57.850161+00:00",
+  "updatedAt": "2026-10-15T23:36:42.594158+00:00",
   "cinema": "ternopil",
   "movies": [
     {
-      "id": "ternopil-1158",
-      "title": "Звіроферма: Місія на виживання",
-      "slug": "zviroferma-misiya-na-vizhivannya",
-      "genres": "Сімейний, Анімація, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
-      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
-      "showtimes": [
-        {
-          "time": "12:25",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1208",
-      "title": "Інша мама",
-      "slug": "insha-mama",
-      "genres": "Горор",
+      "id": "ternopil-1210",
+      "title": "Street Fighter: Вуличний боєць",
+      "slug": "street-fighter-vulichnij-boyec",
+      "genres": "Екшн",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
-      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
+      "trailer": "https://www.youtube.com/embed/D9pLT6hlJAo",
       "showtimes": [
         {
-          "time": "12:30",
+          "time": "10:10",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
-          "time": "16:05",
-          "hall": "Зал №2",
+          "time": "16:25",
+          "hall": "Зал №3",
           "format": "2D"
         },
         {
-          "time": "20:30",
-          "hall": "Зал №2",
+          "time": "20:45",
+          "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
     },
     {
-      "id": "ternopil-1212",
-      "title": "Дівчинка-хмаринка",
-      "slug": "divchinka-hmarinka",
-      "genres": "Фентезі, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
-      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
       "showtimes": [
         {
-          "time": "10:30",
-          "hall": "Зал №2",
-          "format": "2D"
+          "time": "11:00",
+          "hall": "ONYX",
+          "format": "3D"
         },
         {
-          "time": "14:15",
-          "hall": "Зал №2",
-          "format": "2D"
+          "time": "14:45",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "18:25",
+          "hall": "ONYX",
+          "format": "3D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1197",
@@ -133,97 +121,31 @@
       "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
-      "id": "ternopil-1196",
-      "title": "Месники: Завершення. Екстра 3Д",
-      "slug": "mesniki-zavershennya-ekstra-3d",
-      "genres": "Пригоди, Супергеройський екшн",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
-      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
-      "showtimes": [
-        {
-          "time": "11:00",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "14:45",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "18:25",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1207",
-      "title": "Крашанка 2.0. Квантовий парадокс",
-      "slug": "krashanka-20-kvantovij-paradoks",
-      "genres": "Сімейний, Лірична комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328338?alt=media",
-      "trailer": "https://www.youtube.com/embed/HJ9Sd1GIMaE",
-      "showtimes": [
-        {
-          "time": "10:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/krashanka-20-kvantovij-paradoks?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1210",
-      "title": "Street Fighter: Вуличний боєць",
-      "slug": "street-fighter-vulichnij-boyec",
-      "genres": "Екшн",
+      "id": "ternopil-1208",
+      "title": "Інша мама",
+      "slug": "insha-mama",
+      "genres": "Горор",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
-      "trailer": "https://www.youtube.com/embed/D9pLT6hlJAo",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
+      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
       "showtimes": [
         {
-          "time": "10:10",
+          "time": "12:30",
           "hall": "Зал №4",
           "format": "2D"
         },
         {
-          "time": "16:25",
-          "hall": "Зал №3",
+          "time": "16:05",
+          "hall": "Зал №2",
           "format": "2D"
         },
         {
-          "time": "20:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1219",
-      "title": "Чарлі та Гарпер: Історія кохання",
-      "slug": "charli-ta-garper-istoriya-kohannya",
-      "genres": "Романтична драма",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
-      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
-      "showtimes": [
-        {
-          "time": "14:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "18:00",
+          "time": "20:30",
           "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
       "id": "ternopil-1204",
@@ -251,6 +173,84 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/padinnya-kita?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1212",
+      "title": "Дівчинка-хмаринка",
+      "slug": "divchinka-hmarinka",
+      "genres": "Фентезі, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
+      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "14:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1219",
+      "title": "Чарлі та Гарпер: Історія кохання",
+      "slug": "charli-ta-garper-istoriya-kohannya",
+      "genres": "Романтична драма",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
+      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
+      "showtimes": [
+        {
+          "time": "14:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "18:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1207",
+      "title": "Крашанка 2.0. Квантовий парадокс",
+      "slug": "krashanka-20-kvantovij-paradoks",
+      "genres": "Сімейний, Лірична комедія",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328338?alt=media",
+      "trailer": "https://www.youtube.com/embed/HJ9Sd1GIMaE",
+      "showtimes": [
+        {
+          "time": "10:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/krashanka-20-kvantovij-paradoks?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1158",
+      "title": "Звіроферма: Місія на виживання",
+      "slug": "zviroferma-misiya-na-vizhivannya",
+      "genres": "Сімейний, Анімація, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
+      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
+      "showtimes": [
+        {
+          "time": "12:25",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
     }
   ]
 }
