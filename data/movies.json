@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T23:36:42.594158+00:00",
+  "updatedAt": "2026-10-16T23:22:54.881896+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -9,7 +9,7 @@
       "genres": "Екшн",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
-      "trailer": "https://www.youtube.com/embed/D9pLT6hlJAo",
+      "trailer": "https://www.youtube.com/embed/kQ40KyRqCAw",
       "showtimes": [
         {
           "time": "10:10",
@@ -28,33 +28,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1196",
-      "title": "Месники: Завершення. Екстра 3Д",
-      "slug": "mesniki-zavershennya-ekstra-3d",
-      "genres": "Пригоди, Супергеройський екшн",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
-      "trailer": "https://www.youtube.com/embed/7ZHb4PWOI5M",
-      "showtimes": [
-        {
-          "time": "11:00",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "14:45",
-          "hall": "ONYX",
-          "format": "3D"
-        },
-        {
-          "time": "18:25",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1197",
@@ -92,60 +65,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "12:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "16:35",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:40",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1208",
-      "title": "Інша мама",
-      "slug": "insha-mama",
-      "genres": "Горор",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
-      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
-      "showtimes": [
-        {
-          "time": "12:30",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "16:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "20:30",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
       "id": "ternopil-1204",
@@ -195,6 +114,87 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/STAG7Ke7Mv8",
+      "showtimes": [
+        {
+          "time": "11:00",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "14:45",
+          "hall": "ONYX",
+          "format": "3D"
+        },
+        {
+          "time": "18:25",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1208",
+      "title": "Інша мама",
+      "slug": "insha-mama",
+      "genres": "Горор",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
+      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
+      "showtimes": [
+        {
+          "time": "12:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "16:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "20:30",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "12:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "16:35",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:40",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
       "id": "ternopil-1219",
