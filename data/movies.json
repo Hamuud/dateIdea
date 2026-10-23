@@ -1,23 +1,55 @@
 {
-  "updatedAt": "2026-10-22T23:55:57.472107+00:00",
+  "updatedAt": "2026-10-23T23:47:47.245769+00:00",
   "cinema": "ternopil",
   "movies": [
     {
-      "id": "ternopil-1210",
-      "title": "Street Fighter: Вуличний боєць",
-      "slug": "street-fighter-vulichnij-boyec",
-      "genres": "Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
-      "trailer": "https://www.youtube.com/embed/kQ40KyRqCAw",
+      "id": "ternopil-1212",
+      "title": "Дівчинка-хмаринка",
+      "slug": "divchinka-hmarinka",
+      "genres": "Фентезі, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
+      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
       "showtimes": [
         {
-          "time": "10:15",
-          "hall": "Зал №1",
+          "time": "10:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "12:20",
+          "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1208",
+      "title": "Інша мама",
+      "slug": "insha-mama",
+      "genres": "Горор",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
+      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "15:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "18:15",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
       "id": "ternopil-1216",
@@ -84,21 +116,77 @@
       "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
     },
     {
-      "id": "ternopil-1206",
-      "title": "За Перемогу!",
-      "slug": "za-peremogu",
-      "genres": "Драма, Комедія, Військовий",
+      "id": "ternopil-1197",
+      "title": "Веріті",
+      "slug": "veriti",
+      "genres": "Психологічний трилер",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181958?alt=media",
-      "trailer": "https://www.youtube.com/embed/XzFyZ-cR5JQ",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
+      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
       "showtimes": [
         {
-          "time": "16:05",
+          "time": "12:35",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "19:10",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1220",
+      "title": "Надія",
+      "slug": "nadiya",
+      "genres": "Трилер, Екшн, Фантастика, Горор",
+      "ageLimit": "18+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792060957914?alt=media",
+      "trailer": "https://www.youtube.com/embed/V1CUE-wlQY4",
+      "showtimes": [
+        {
+          "time": "20:15",
           "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/za-peremogu?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/nadiya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1196",
+      "title": "Месники: Завершення. Екстра 3Д",
+      "slug": "mesniki-zavershennya-ekstra-3d",
+      "genres": "Пригоди, Супергеройський екшн",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
+      "trailer": "https://www.youtube.com/embed/xe5pF3gRRCQ",
+      "showtimes": [
+        {
+          "time": "19:40",
+          "hall": "ONYX",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1223",
+      "title": "Танці зі штангою",
+      "slug": "tanci-zi-shtangoyu",
+      "genres": "Комедія, Танцювально-спортивна історія, Історія кохання",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792422391967?alt=media",
+      "trailer": "https://www.youtube.com/embed/NotOcZz621U",
+      "showtimes": [
+        {
+          "time": "20:55",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/tanci-zi-shtangoyu?cinema=ternopil"
     },
     {
       "id": "ternopil-1205",
@@ -123,109 +211,21 @@
       "detailUrl": "https://miromax.ua/movies/glinolikij?cinema=ternopil"
     },
     {
-      "id": "ternopil-1208",
-      "title": "Інша мама",
-      "slug": "insha-mama",
-      "genres": "Горор",
+      "id": "ternopil-1219",
+      "title": "Чарлі та Гарпер: Історія кохання",
+      "slug": "charli-ta-garper-istoriya-kohannya",
+      "genres": "Романтична драма",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194328718?alt=media",
-      "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
+      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
       "showtimes": [
         {
-          "time": "10:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "15:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "18:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1158",
-      "title": "Звіроферма: Місія на виживання",
-      "slug": "zviroferma-misiya-na-vizhivannya",
-      "genres": "Сімейний, Анімація, Екшн",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
-      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
-      "showtimes": [
-        {
-          "time": "12:45",
+          "time": "16:35",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1212",
-      "title": "Дівчинка-хмаринка",
-      "slug": "divchinka-hmarinka",
-      "genres": "Фентезі, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
-      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
-      "showtimes": [
-        {
-          "time": "10:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "12:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1196",
-      "title": "Месники: Завершення. Екстра 3Д",
-      "slug": "mesniki-zavershennya-ekstra-3d",
-      "genres": "Пригоди, Супергеройський екшн",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434168281?alt=media",
-      "trailer": "https://www.youtube.com/embed/STAG7Ke7Mv8",
-      "showtimes": [
-        {
-          "time": "19:40",
-          "hall": "ONYX",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/mesniki-zavershennya-ekstra-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1197",
-      "title": "Веріті",
-      "slug": "veriti",
-      "genres": "Психологічний трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
-      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
-      "showtimes": [
-        {
-          "time": "12:35",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:10",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
     },
     {
       "id": "ternopil-1195",
@@ -250,55 +250,21 @@
       "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
-      "id": "ternopil-1220",
-      "title": "Надія",
-      "slug": "nadiya",
-      "genres": "Трилер, Екшн, Фантастика, Горор",
-      "ageLimit": "18+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792060957914?alt=media",
-      "trailer": "https://www.youtube.com/embed/V1CUE-wlQY4",
-      "showtimes": [
-        {
-          "time": "20:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/nadiya?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1223",
-      "title": "Танці зі штангою",
-      "slug": "tanci-zi-shtangoyu",
-      "genres": "Комедія, Танцювально-спортивна історія, Історія кохання",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792422391967?alt=media",
-      "trailer": "https://www.youtube.com/embed/NotOcZz621U",
-      "showtimes": [
-        {
-          "time": "20:55",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/tanci-zi-shtangoyu?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1219",
-      "title": "Чарлі та Гарпер: Історія кохання",
-      "slug": "charli-ta-garper-istoriya-kohannya",
-      "genres": "Романтична драма",
+      "id": "ternopil-1210",
+      "title": "Street Fighter: Вуличний боєць",
+      "slug": "street-fighter-vulichnij-boyec",
+      "genres": "Екшн",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
-      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791194329375?alt=media",
+      "trailer": "https://www.youtube.com/embed/kQ40KyRqCAw",
       "showtimes": [
         {
-          "time": "16:35",
-          "hall": "Зал №3",
+          "time": "10:15",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/street-fighter-vulichnij-boyec?cinema=ternopil"
     },
     {
       "id": "ternopil-1201",
@@ -338,6 +304,40 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/prajmtajm?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1158",
+      "title": "Звіроферма: Місія на виживання",
+      "slug": "zviroferma-misiya-na-vizhivannya",
+      "genres": "Сімейний, Анімація, Екшн",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1783509450987?alt=media",
+      "trailer": "https://www.youtube.com/embed/3tKFh24ZZ9c",
+      "showtimes": [
+        {
+          "time": "12:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zviroferma-misiya-na-vizhivannya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1206",
+      "title": "За Перемогу!",
+      "slug": "za-peremogu",
+      "genres": "Драма, Комедія, Військовий",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181958?alt=media",
+      "trailer": "https://www.youtube.com/embed/_ldBEtXuugc",
+      "showtimes": [
+        {
+          "time": "16:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/za-peremogu?cinema=ternopil"
     }
   ]
 }
