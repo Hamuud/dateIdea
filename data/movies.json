@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:58:49.119982+00:00",
+  "updatedAt": "2026-11-02T00:27:59.888970+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -140,40 +140,6 @@
       "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
     },
     {
-      "id": "ternopil-1201",
-      "title": "ДОВЖЕНКО. Перший погляд",
-      "slug": "dovzhenko-pershij-poglyad",
-      "genres": "Байопік",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596179377?alt=media",
-      "trailer": "https://www.youtube.com/embed/VTZ8XwzsrXE",
-      "showtimes": [
-        {
-          "time": "14:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/dovzhenko-pershij-poglyad?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1205",
-      "title": "Глиноликий",
-      "slug": "glinolikij",
-      "genres": "Пригоди, Екшн, Горор, Наукова фантастика, Трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181385?alt=media",
-      "trailer": "https://www.youtube.com/embed/1NIQPc5N4_g",
-      "showtimes": [
-        {
-          "time": "15:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/glinolikij?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1195",
       "title": "Серце звіра",
       "slug": "serce-zvira",
@@ -196,6 +162,40 @@
       "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
     },
     {
+      "id": "ternopil-1205",
+      "title": "Глиноликий",
+      "slug": "glinolikij",
+      "genres": "Пригоди, Екшн, Горор, Наукова фантастика, Трилер",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181385?alt=media",
+      "trailer": "https://www.youtube.com/embed/1NIQPc5N4_g",
+      "showtimes": [
+        {
+          "time": "15:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/glinolikij?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1201",
+      "title": "ДОВЖЕНКО. Перший погляд",
+      "slug": "dovzhenko-pershij-poglyad",
+      "genres": "Байопік",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596179377?alt=media",
+      "trailer": "https://www.youtube.com/embed/VTZ8XwzsrXE",
+      "showtimes": [
+        {
+          "time": "14:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dovzhenko-pershij-poglyad?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1219",
       "title": "Чарлі та Гарпер: Історія кохання",
       "slug": "charli-ta-garper-istoriya-kohannya",
@@ -211,6 +211,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1223",
+      "title": "Танці зі штангою",
+      "slug": "tanci-zi-shtangoyu",
+      "genres": "Комедія, Танцювально-спортивна історія, Історія кохання",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792422391967?alt=media",
+      "trailer": "https://www.youtube.com/embed/XNQEF3xc3zY",
+      "showtimes": [
+        {
+          "time": "12:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/tanci-zi-shtangoyu?cinema=ternopil"
     },
     {
       "id": "ternopil-1226",
@@ -267,23 +284,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1223",
-      "title": "Танці зі штангою",
-      "slug": "tanci-zi-shtangoyu",
-      "genres": "Комедія, Танцювально-спортивна історія, Історія кохання",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792422391967?alt=media",
-      "trailer": "https://www.youtube.com/embed/XNQEF3xc3zY",
-      "showtimes": [
-        {
-          "time": "12:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/tanci-zi-shtangoyu?cinema=ternopil"
     },
     {
       "id": "ternopil-1211",
