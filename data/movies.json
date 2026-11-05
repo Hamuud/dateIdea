@@ -1,101 +1,28 @@
 {
-  "updatedAt": "2026-11-04T01:08:02.829619+00:00",
+  "updatedAt": "2026-11-05T01:23:43.313713+00:00",
   "cinema": "ternopil",
   "movies": [
     {
-      "id": "ternopil-1201",
-      "title": "ДОВЖЕНКО. Перший погляд",
-      "slug": "dovzhenko-pershij-poglyad",
-      "genres": "Байопік",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596179377?alt=media",
-      "trailer": "https://www.youtube.com/embed/VTZ8XwzsrXE",
+      "id": "ternopil-1224",
+      "title": "Кіт у капелюсі 3Д",
+      "slug": "kit-u-kapelyusi-3d",
+      "genres": "Сімейний, Комедія, Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792766828228?alt=media",
+      "trailer": "https://www.youtube.com/embed/So4IHrjsu5U",
       "showtimes": [
         {
-          "time": "14:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/dovzhenko-pershij-poglyad?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "16:35",
-          "hall": "Зал №3",
-          "format": "2D"
+          "time": "12:10",
+          "hall": "Зал №2",
+          "format": "3D"
         },
         {
-          "time": "21:05",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1205",
-      "title": "Глиноликий",
-      "slug": "glinolikij",
-      "genres": "Пригоди, Екшн, Горор, Наукова фантастика, Трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596181385?alt=media",
-      "trailer": "https://www.youtube.com/embed/1NIQPc5N4_g",
-      "showtimes": [
-        {
-          "time": "15:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/glinolikij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1216",
-      "title": "Забутий острів 3Д",
-      "slug": "zabutij-ostriv-3d",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465747752?alt=media",
-      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
-      "showtimes": [
-        {
-          "time": "11:55",
+          "time": "16:30",
           "hall": "Зал №2",
           "format": "3D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1217",
-      "title": "Забутий острів",
-      "slug": "zabutij-ostriv",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
-      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
-      "showtimes": [
-        {
-          "time": "10:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "16:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi-3d?cinema=ternopil"
     },
     {
       "id": "ternopil-1215",
@@ -107,22 +34,154 @@
       "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
       "showtimes": [
         {
-          "time": "10:10",
-          "hall": "Зал №4",
+          "time": "10:00",
+          "hall": "Зал №2",
           "format": "2D"
         },
         {
-          "time": "14:10",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:35",
-          "hall": "Зал №4",
+          "time": "14:20",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1201",
+      "title": "ДОВЖЕНКО. Перший погляд",
+      "slug": "dovzhenko-pershij-poglyad",
+      "genres": "Байопік",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1790596179377?alt=media",
+      "trailer": "https://www.youtube.com/embed/VTZ8XwzsrXE",
+      "showtimes": [
+        {
+          "time": "10:10",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dovzhenko-pershij-poglyad?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1231",
+      "title": "Дикий кінь номер дев'ять",
+      "slug": "dikij-kin-nomer-devyat",
+      "genres": "Драма, Комедія, Трилер, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
+      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "15:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "18:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1217",
+      "title": "Забутий острів",
+      "slug": "zabutij-ostriv",
+      "genres": "Анімаційна пригода",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
+      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
+      "showtimes": [
+        {
+          "time": "10:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "12:20",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "14:35",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:40",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1233",
+      "title": "Каліфорнійська схема",
+      "slug": "kalifornijska-shema",
+      "genres": "Комедія, Біографія, Музика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793712526511?alt=media",
+      "trailer": "https://www.youtube.com/embed/cGPG7zI_Zdc",
+      "showtimes": [
+        {
+          "time": "14:50",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kalifornijska-shema?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1225",
+      "title": "Плетений",
+      "slug": "pletenij",
+      "genres": "Драма, Комедія, Фентезі, Романтика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
+      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "showtimes": [
+        {
+          "time": "16:45",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "19:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "21:05",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1211",
@@ -134,83 +193,12 @@
       "trailer": "https://www.youtube.com/embed/jQa-7rbqr8Q",
       "showtimes": [
         {
-          "time": "20:15",
-          "hall": "Зал №2",
+          "time": "13:00",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/mesnik?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1197",
-      "title": "Веріті",
-      "slug": "veriti",
-      "genres": "Психологічний трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
-      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
-      "showtimes": [
-        {
-          "time": "10:15",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "12:35",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:10",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "20:45",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1227",
-      "title": "Сімейка шахраїв",
-      "slug": "simejka-shahrayiv",
-      "genres": "Комедія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086212896?alt=media",
-      "trailer": "https://www.youtube.com/embed/6Dfv0lciTn4",
-      "showtimes": [
-        {
-          "time": "18:15",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "21:25",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1223",
-      "title": "Танці зі штангою",
-      "slug": "tanci-zi-shtangoyu",
-      "genres": "Комедія, Танцювально-спортивна історія, Історія кохання",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792422391967?alt=media",
-      "trailer": "https://www.youtube.com/embed/XNQEF3xc3zY",
-      "showtimes": [
-        {
-          "time": "12:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/tanci-zi-shtangoyu?cinema=ternopil"
     },
     {
       "id": "ternopil-1208",
@@ -222,85 +210,80 @@
       "trailer": "https://www.youtube.com/embed/uGHitJ2p6Rk",
       "showtimes": [
         {
-          "time": "14:05",
-          "hall": "Зал №2",
+          "time": "21:15",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
-      "id": "ternopil-1226",
-      "title": "Добре, що мама не знає",
-      "slug": "dobre-sho-mama-ne-znaye",
-      "genres": "Комедія, Кримінал",
+      "id": "ternopil-1197",
+      "title": "Веріті",
+      "slug": "veriti",
+      "genres": "Психологічний трилер",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792766829117?alt=media",
-      "trailer": "https://www.youtube.com/embed/v6tcGzFkXUk",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
+      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
       "showtimes": [
         {
-          "time": "10:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "18:45",
+          "time": "17:00",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/dobre-sho-mama-ne-znaye?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
     },
     {
-      "id": "ternopil-1222",
-      "title": "Праймтайм",
-      "slug": "prajmtajm",
-      "genres": "Трилер, Біографія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792075657655?alt=media",
-      "trailer": "https://www.youtube.com/embed/GE6MZ75GEqM",
+      "id": "ternopil-1232",
+      "title": "Джордж Майкл: The Faith Tour(англійською мовою з укр.субт.)",
+      "slug": "dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt",
+      "genres": "Документальний, Музичний фільм",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793712526026?alt=media",
+      "trailer": null,
       "showtimes": [
         {
-          "time": "16:05",
+          "time": "12:30",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1227",
+      "title": "Сімейка шахраїв",
+      "slug": "simejka-shahrayiv",
+      "genres": "Комедія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086212896?alt=media",
+      "trailer": "https://www.youtube.com/embed/6Dfv0lciTn4",
+      "showtimes": [
+        {
+          "time": "19:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1228",
+      "title": "Залізна завіса",
+      "slug": "zalizna-zavisa",
+      "genres": "Трилер, Історичний",
+      "ageLimit": "~16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460191?alt=media",
+      "trailer": "https://www.youtube.com/embed/kgl1YHClQyk",
+      "showtimes": [
+        {
+          "time": "20:45",
           "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/prajmtajm?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1212",
-      "title": "Дівчинка-хмаринка",
-      "slug": "divchinka-hmarinka",
-      "genres": "Фентезі, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791198961187?alt=media",
-      "trailer": "https://www.youtube.com/embed/fsDzuUcd5KA",
-      "showtimes": [
-        {
-          "time": "12:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/divchinka-hmarinka?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1219",
-      "title": "Чарлі та Гарпер: Історія кохання",
-      "slug": "charli-ta-garper-istoriya-kohannya",
-      "genres": "Романтична драма",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791887406916?alt=media",
-      "trailer": "https://www.youtube.com/embed/DDVlFFpfGdo",
-      "showtimes": [
-        {
-          "time": "17:10",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/charli-ta-garper-istoriya-kohannya?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/zalizna-zavisa?cinema=ternopil"
     }
   ]
 }
