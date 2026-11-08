@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-07T00:46:44.855897+00:00",
+  "updatedAt": "2026-11-08T00:17:54.461535+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1231",
+      "title": "Дикий кінь номер дев'ять",
+      "slug": "dikij-kin-nomer-devyat",
+      "genres": "Драма, Комедія, Трилер, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
+      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "15:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
+    },
     {
       "id": "ternopil-1224",
       "title": "Кіт у капелюсі 3Д",
@@ -42,6 +69,11 @@
           "time": "14:20",
           "hall": "Зал №2",
           "format": "2D"
+        },
+        {
+          "time": "18:00",
+          "hall": "Зал №1",
+          "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
@@ -62,38 +94,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1231",
-      "title": "Дикий кінь номер дев'ять",
-      "slug": "dikij-kin-nomer-devyat",
-      "genres": "Драма, Комедія, Трилер, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
-      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
-      "showtimes": [
-        {
-          "time": "10:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "15:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "18:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "20:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
     },
     {
       "id": "ternopil-1217",
@@ -201,23 +201,6 @@
       "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
-      "id": "ternopil-1197",
-      "title": "Веріті",
-      "slug": "veriti",
-      "genres": "Психологічний трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
-      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
-      "showtimes": [
-        {
-          "time": "17:00",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1232",
       "title": "Джордж Майкл: The Faith Tour(англійською мовою з укр.субт.)",
       "slug": "dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt",
@@ -252,21 +235,21 @@
       "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
-      "id": "ternopil-1228",
-      "title": "Залізна завіса",
-      "slug": "zalizna-zavisa",
-      "genres": "Трилер, Історичний",
+      "id": "ternopil-1197",
+      "title": "Веріті",
+      "slug": "veriti",
+      "genres": "Психологічний трилер",
       "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460191?alt=media",
-      "trailer": "https://www.youtube.com/embed/kgl1YHClQyk",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
+      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
       "showtimes": [
         {
-          "time": "20:45",
-          "hall": "Зал №2",
+          "time": "17:00",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zalizna-zavisa?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
     },
     {
       "id": "ternopil-1201",
@@ -284,6 +267,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/dovzhenko-pershij-poglyad?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1228",
+      "title": "Залізна завіса",
+      "slug": "zalizna-zavisa",
+      "genres": "Трилер, Історичний",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460191?alt=media",
+      "trailer": "https://www.youtube.com/embed/kgl1YHClQyk",
+      "showtimes": [
+        {
+          "time": "20:45",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zalizna-zavisa?cinema=ternopil"
     }
   ]
 }
