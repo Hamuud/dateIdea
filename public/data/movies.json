@@ -1,34 +1,7 @@
 {
-  "updatedAt": "2026-11-08T00:17:54.461535+00:00",
+  "updatedAt": "2026-11-09T00:40:04.864921+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1231",
-      "title": "Дикий кінь номер дев'ять",
-      "slug": "dikij-kin-nomer-devyat",
-      "genres": "Драма, Комедія, Трилер, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
-      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
-      "showtimes": [
-        {
-          "time": "10:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "15:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "20:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
-    },
     {
       "id": "ternopil-1224",
       "title": "Кіт у капелюсі 3Д",
@@ -77,6 +50,33 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1231",
+      "title": "Дикий кінь номер дев'ять",
+      "slug": "dikij-kin-nomer-devyat",
+      "genres": "Драма, Комедія, Трилер, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
+      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
+      "showtimes": [
+        {
+          "time": "10:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "15:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
     },
     {
       "id": "ternopil-1227",
@@ -201,21 +201,21 @@
       "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
-      "id": "ternopil-1232",
-      "title": "Джордж Майкл: The Faith Tour(англійською мовою з укр.субт.)",
-      "slug": "dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt",
-      "genres": "Документальний, Музичний фільм",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793712526026?alt=media",
-      "trailer": null,
+      "id": "ternopil-1197",
+      "title": "Веріті",
+      "slug": "veriti",
+      "genres": "Психологічний трилер",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
+      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
       "showtimes": [
         {
-          "time": "12:30",
+          "time": "17:00",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
     },
     {
       "id": "ternopil-1208",
@@ -235,21 +235,21 @@
       "detailUrl": "https://miromax.ua/movies/insha-mama?cinema=ternopil"
     },
     {
-      "id": "ternopil-1197",
-      "title": "Веріті",
-      "slug": "veriti",
-      "genres": "Психологічний трилер",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789993244131?alt=media",
-      "trailer": "https://www.youtube.com/embed/Mq_D3IMLyEE",
+      "id": "ternopil-1232",
+      "title": "Джордж Майкл: The Faith Tour(англійською мовою з укр.субт.)",
+      "slug": "dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt",
+      "genres": "Документальний, Музичний фільм",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793712526026?alt=media",
+      "trailer": null,
       "showtimes": [
         {
-          "time": "17:00",
+          "time": "12:30",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/dzhordzh-majkl-the-faith-touranglijskoyu-movoyu-z-ukrsubt?cinema=ternopil"
     },
     {
       "id": "ternopil-1201",
