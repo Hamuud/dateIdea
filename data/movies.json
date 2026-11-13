@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-11-12T02:09:55.826290+00:00",
+  "updatedAt": "2026-11-13T01:43:49.800252+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1225",
+      "title": "Плетений",
+      "slug": "pletenij",
+      "genres": "Драма, Комедія, Фентезі, Романтика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
+      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "showtimes": [
+        {
+          "time": "14:50",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "19:15",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1242",
+      "title": "Дрімквіль. Корпорація мрій",
+      "slug": "drimkvil-korporaciya-mrij",
+      "genres": "Трилер, Містика, Наукова фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794237946496?alt=media",
+      "trailer": "https://www.youtube.com/embed/SFCA5Pdbeeg",
+      "showtimes": [
+        {
+          "time": "12:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/drimkvil-korporaciya-mrij?cinema=ternopil"
+    },
     {
       "id": "ternopil-1224",
       "title": "Кіт у капелюсі 3Д",
@@ -45,6 +84,79 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1195",
+      "title": "Серце звіра",
+      "slug": "serce-zvira",
+      "genres": "Трилер, Пригоди, Екшн",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
+      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
+      "showtimes": [
+        {
+          "time": "21:20",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1217",
+      "title": "Забутий острів",
+      "slug": "zabutij-ostriv",
+      "genres": "Анімаційна пригода",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
+      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
+      "showtimes": [
+        {
+          "time": "10:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1229",
+      "title": "Як пограбувати банк",
+      "slug": "yak-pograbuvati-bank",
+      "genres": "Трилер, Екшн, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460424?alt=media",
+      "trailer": "https://www.youtube.com/embed/DrjmL-34o4s",
+      "showtimes": [
+        {
+          "time": "11:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "20:40",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1227",
+      "title": "Сімейка шахраїв",
+      "slug": "simejka-shahrayiv",
+      "genres": "Комедія",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086212896?alt=media",
+      "trailer": "https://www.youtube.com/embed/6Dfv0lciTn4",
+      "showtimes": [
+        {
+          "time": "21:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
     },
     {
       "id": "ternopil-1218",
@@ -99,96 +211,6 @@
       "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
     },
     {
-      "id": "ternopil-1242",
-      "title": "Дрімквіль. Корпорація мрій",
-      "slug": "drimkvil-korporaciya-mrij",
-      "genres": "Трилер, Містика, Наукова фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794237946496?alt=media",
-      "trailer": "https://www.youtube.com/embed/SFCA5Pdbeeg",
-      "showtimes": [
-        {
-          "time": "12:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/drimkvil-korporaciya-mrij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1225",
-      "title": "Плетений",
-      "slug": "pletenij",
-      "genres": "Драма, Комедія, Фентезі, Романтика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
-      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
-      "showtimes": [
-        {
-          "time": "14:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "19:15",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1227",
-      "title": "Сімейка шахраїв",
-      "slug": "simejka-shahrayiv",
-      "genres": "Комедія",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086212896?alt=media",
-      "trailer": "https://www.youtube.com/embed/6Dfv0lciTn4",
-      "showtimes": [
-        {
-          "time": "21:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1217",
-      "title": "Забутий острів",
-      "slug": "zabutij-ostriv",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
-      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
-      "showtimes": [
-        {
-          "time": "10:35",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1195",
-      "title": "Серце звіра",
-      "slug": "serce-zvira",
-      "genres": "Трилер, Пригоди, Екшн",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1789434167770?alt=media",
-      "trailer": "https://www.youtube.com/embed/fmL5LHemqZY",
-      "showtimes": [
-        {
-          "time": "21:20",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1197",
       "title": "Веріті",
       "slug": "veriti",
@@ -204,28 +226,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/veriti?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1229",
-      "title": "Як пограбувати банк",
-      "slug": "yak-pograbuvati-bank",
-      "genres": "Трилер, Екшн, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460424?alt=media",
-      "trailer": "https://www.youtube.com/embed/LsnxPXH0Xck",
-      "showtimes": [
-        {
-          "time": "11:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "20:40",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
     },
     {
       "id": "ternopil-1231",
