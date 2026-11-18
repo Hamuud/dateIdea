@@ -1,62 +1,23 @@
 {
-  "updatedAt": "2026-11-17T03:34:53.801972+00:00",
+  "updatedAt": "2026-11-18T02:48:11.539449+00:00",
   "cinema": "ternopil",
   "movies": [
     {
-      "id": "ternopil-1225",
-      "title": "Плетений",
-      "slug": "pletenij",
-      "genres": "Драма, Комедія, Фентезі, Романтика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
-      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "id": "ternopil-1217",
+      "title": "Забутий острів",
+      "slug": "zabutij-ostriv",
+      "genres": "Анімаційна пригода",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
+      "trailer": "https://www.youtube.com/embed/fU4IbdbIH-Y",
       "showtimes": [
         {
-          "time": "14:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "19:15",
+          "time": "10:35",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1242",
-      "title": "Дрімквіль. Корпорація мрій",
-      "slug": "drimkvil-korporaciya-mrij",
-      "genres": "Трилер, Містика, Наукова фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794237946496?alt=media",
-      "trailer": "https://www.youtube.com/embed/SFCA5Pdbeeg",
-      "showtimes": [
-        {
-          "time": "12:45",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/drimkvil-korporaciya-mrij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1231",
-      "title": "Дикий кінь номер дев'ять",
-      "slug": "dikij-kin-nomer-devyat",
-      "genres": "Драма, Комедія, Трилер, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
-      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
-      "showtimes": [
-        {
-          "time": "13:30",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
     },
     {
       "id": "ternopil-1229",
@@ -81,48 +42,26 @@
       "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
     },
     {
-      "id": "ternopil-1224",
-      "title": "Кіт у капелюсі 3Д",
-      "slug": "kit-u-kapelyusi-3d",
-      "genres": "Сімейний, Комедія, Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792766828228?alt=media",
-      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
+      "id": "ternopil-1225",
+      "title": "Плетений",
+      "slug": "pletenij",
+      "genres": "Драма, Комедія, Фентезі, Романтика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
+      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
       "showtimes": [
         {
-          "time": "12:10",
-          "hall": "Зал №2",
-          "format": "3D"
-        },
-        {
-          "time": "16:30",
-          "hall": "Зал №2",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1215",
-      "title": "Кіт у капелюсі",
-      "slug": "kit-u-kapelyusi",
-      "genres": "Сімейний, Комедія, Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791284273918?alt=media",
-      "trailer": "https://www.youtube.com/embed/C4E36AfNQEU",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №2",
+          "time": "14:50",
+          "hall": "Зал №3",
           "format": "2D"
         },
         {
-          "time": "14:20",
-          "hall": "Зал №2",
+          "time": "19:15",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1218",
@@ -177,21 +116,48 @@
       "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
     },
     {
-      "id": "ternopil-1217",
-      "title": "Забутий острів",
-      "slug": "zabutij-ostriv",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
-      "trailer": "https://www.youtube.com/embed/fU4IbdbIH-Y",
+      "id": "ternopil-1224",
+      "title": "Кіт у капелюсі 3Д",
+      "slug": "kit-u-kapelyusi-3d",
+      "genres": "Сімейний, Комедія, Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1792766828228?alt=media",
+      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
       "showtimes": [
         {
-          "time": "10:35",
-          "hall": "Зал №3",
+          "time": "12:10",
+          "hall": "Зал №2",
+          "format": "3D"
+        },
+        {
+          "time": "16:30",
+          "hall": "Зал №2",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1215",
+      "title": "Кіт у капелюсі",
+      "slug": "kit-u-kapelyusi",
+      "genres": "Сімейний, Комедія, Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791284273918?alt=media",
+      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "14:20",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
     },
     {
       "id": "ternopil-1195",
@@ -209,6 +175,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/serce-zvira?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1242",
+      "title": "Дрімквіль. Корпорація мрій",
+      "slug": "drimkvil-korporaciya-mrij",
+      "genres": "Трилер, Містика, Наукова фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794237946496?alt=media",
+      "trailer": "https://www.youtube.com/embed/SFCA5Pdbeeg",
+      "showtimes": [
+        {
+          "time": "12:45",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/drimkvil-korporaciya-mrij?cinema=ternopil"
     },
     {
       "id": "ternopil-1197",
@@ -243,6 +226,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/simejka-shahrayiv?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1231",
+      "title": "Дикий кінь номер дев'ять",
+      "slug": "dikij-kin-nomer-devyat",
+      "genres": "Драма, Комедія, Трилер, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793624219388?alt=media",
+      "trailer": "https://www.youtube.com/embed/3G68qA4fTxo",
+      "showtimes": [
+        {
+          "time": "13:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/dikij-kin-nomer-devyat?cinema=ternopil"
     }
   ]
 }
