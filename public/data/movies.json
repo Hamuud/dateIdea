@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:25:04.229781+00:00",
+  "updatedAt": "2026-11-20T02:10:01.711437+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -17,7 +17,7 @@
           "format": "2D"
         },
         {
-          "time": "12:40",
+          "time": "12:10",
           "hall": "Зал №2",
           "format": "2D"
         },
@@ -32,7 +32,7 @@
           "format": "2D"
         },
         {
-          "time": "19:15",
+          "time": "18:25",
           "hall": "Зал №2",
           "format": "2D"
         },
@@ -45,33 +45,16 @@
       "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
     },
     {
-      "id": "ternopil-1217",
-      "title": "Забутий острів",
-      "slug": "zabutij-ostriv",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
-      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1234",
       "title": "S Миколай та загублений лист",
       "slug": "s-mikolaj-ta-zagublenij-list",
       "genres": "Сімейна комедія",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793798792323?alt=media",
-      "trailer": "https://www.youtube.com/embed/xfwH5c73WOE",
+      "trailer": "https://www.youtube.com/embed/gB7sEnVpINo",
       "showtimes": [
         {
-          "time": "18:00",
+          "time": "16:45",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -88,61 +71,12 @@
       "trailer": "https://www.youtube.com/embed/GBlC3lIzu7Y",
       "showtimes": [
         {
-          "time": "10:20",
-          "hall": "Зал №2",
+          "time": "10:10",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1225",
-      "title": "Плетений",
-      "slug": "pletenij",
-      "genres": "Драма, Комедія, Фентезі, Романтика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
-      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
-      "showtimes": [
-        {
-          "time": "15:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1218",
-      "title": "Скрудж і духи Різдва",
-      "slug": "skrudzh-i-duhi-rizdva",
-      "genres": "Комедія, Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
-      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
-      "showtimes": [
-        {
-          "time": "14:20",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "16:40",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "19:50",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "21:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
     },
     {
       "id": "ternopil-1236",
@@ -154,7 +88,7 @@
       "trailer": "https://www.youtube.com/embed/H8OizexWplU",
       "showtimes": [
         {
-          "time": "15:50",
+          "time": "15:15",
           "hall": "Зал №2",
           "format": "3D"
         }
@@ -171,29 +105,78 @@
       "trailer": "https://www.youtube.com/embed/DV-Gg0fSRn4",
       "showtimes": [
         {
-          "time": "10:10",
-          "hall": "Зал №3",
+          "time": "10:15",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/ramayana-narodzhennya-legendi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1215",
-      "title": "Кіт у капелюсі",
-      "slug": "kit-u-kapelyusi",
-      "genres": "Сімейний, Комедія, Пригоди, Анімація",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791284273918?alt=media",
-      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
+      "id": "ternopil-1217",
+      "title": "Забутий острів",
+      "slug": "zabutij-ostriv",
+      "genres": "Анімаційна пригода",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
+      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
       "showtimes": [
         {
-          "time": "12:10",
-          "hall": "Зал №1",
+          "time": "10:00",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1218",
+      "title": "Скрудж і духи Різдва",
+      "slug": "skrudzh-i-duhi-rizdva",
+      "genres": "Комедія, Фентезі",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
+      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
+      "showtimes": [
+        {
+          "time": "13:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "17:50",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "18:35",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "20:55",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1225",
+      "title": "Плетений",
+      "slug": "pletenij",
+      "genres": "Драма, Комедія, Фентезі, Романтика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
+      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "showtimes": [
+        {
+          "time": "14:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1235",
@@ -205,29 +188,46 @@
       "trailer": "https://www.youtube.com/embed/3aXInyGdjEA",
       "showtimes": [
         {
-          "time": "13:20",
-          "hall": "Зал №3",
+          "time": "20:20",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/ya-rokki?cinema=ternopil"
     },
     {
-      "id": "ternopil-1251",
-      "title": "Спецпоказ “Машина часу Майдан” за участю творчої групи",
-      "slug": "specpokaz-mashina-chasu-majdan-za-uchastyu-tvorchoyi-grupi",
-      "genres": "Документальний",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794574035792?alt=media",
-      "trailer": null,
+      "id": "ternopil-1215",
+      "title": "Кіт у капелюсі",
+      "slug": "kit-u-kapelyusi",
+      "genres": "Сімейний, Комедія, Пригоди, Анімація",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791284273918?alt=media",
+      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
       "showtimes": [
         {
-          "time": "19:00",
-          "hall": "Зал №1",
+          "time": "12:30",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/specpokaz-mashina-chasu-majdan-za-uchastyu-tvorchoyi-grupi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1252",
+      "title": "Машина часу Майдан",
+      "slug": "mashina-chasu-majdan",
+      "genres": "Документальний",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794847133423?alt=media",
+      "trailer": "https://www.youtube.com/embed/VbXJWjFzj5M",
+      "showtimes": [
+        {
+          "time": "21:30",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/mashina-chasu-majdan?cinema=ternopil"
     }
   ]
 }
