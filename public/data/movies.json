@@ -1,49 +1,7 @@
 {
-  "updatedAt": "2026-11-20T02:10:01.711437+00:00",
+  "updatedAt": "2026-11-21T02:02:54.959847+00:00",
   "cinema": "ternopil",
   "movies": [
-    {
-      "id": "ternopil-1221",
-      "title": "Голодні ігри: Світанок перед Жнивами",
-      "slug": "golodni-igri-svitanok-pered-zhnivami",
-      "genres": "Фентезі, Екшн, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
-      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
-      "showtimes": [
-        {
-          "time": "10:30",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "12:10",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "13:40",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "16:50",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:25",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "20:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
-    },
     {
       "id": "ternopil-1234",
       "title": "S Миколай та загублений лист",
@@ -54,7 +12,12 @@
       "trailer": "https://www.youtube.com/embed/gB7sEnVpINo",
       "showtimes": [
         {
-          "time": "16:45",
+          "time": "10:05",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "18:00",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -71,46 +34,49 @@
       "trailer": "https://www.youtube.com/embed/GBlC3lIzu7Y",
       "showtimes": [
         {
-          "time": "10:10",
-          "hall": "Зал №3",
+          "time": "12:10",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
     },
     {
-      "id": "ternopil-1236",
-      "title": "Рамаяна: Народження легенди 3Д",
-      "slug": "ramayana-narodzhennya-legendi-3d",
-      "genres": "Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793970661715?alt=media",
-      "trailer": "https://www.youtube.com/embed/H8OizexWplU",
+      "id": "ternopil-1221",
+      "title": "Голодні ігри: Світанок перед Жнивами",
+      "slug": "golodni-igri-svitanok-pered-zhnivami",
+      "genres": "Фентезі, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
+      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
       "showtimes": [
         {
-          "time": "15:15",
+          "time": "10:30",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "13:40",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "16:50",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "17:40",
           "hall": "Зал №2",
-          "format": "3D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/ramayana-narodzhennya-legendi-3d?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1237",
-      "title": "Рамаяна: Народження легенди",
-      "slug": "ramayana-narodzhennya-legendi",
-      "genres": "Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793970662152?alt=media",
-      "trailer": "https://www.youtube.com/embed/DV-Gg0fSRn4",
-      "showtimes": [
+          "format": "2D"
+        },
         {
-          "time": "10:15",
-          "hall": "Зал №1",
+          "time": "20:00",
+          "hall": "Зал №4",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/ramayana-narodzhennya-legendi?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
     },
     {
       "id": "ternopil-1217",
@@ -144,22 +110,56 @@
           "format": "2D"
         },
         {
-          "time": "17:50",
+          "time": "16:00",
           "hall": "Зал №1",
           "format": "2D"
         },
         {
-          "time": "18:35",
-          "hall": "Зал №3",
+          "time": "18:20",
+          "hall": "Зал №1",
           "format": "2D"
         },
         {
-          "time": "20:55",
-          "hall": "Зал №3",
+          "time": "20:50",
+          "hall": "Зал №1",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1236",
+      "title": "Рамаяна: Народження легенди 3Д",
+      "slug": "ramayana-narodzhennya-legendi-3d",
+      "genres": "Фентезі",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793970661715?alt=media",
+      "trailer": "https://www.youtube.com/embed/H8OizexWplU",
+      "showtimes": [
+        {
+          "time": "14:30",
+          "hall": "Зал №2",
+          "format": "3D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/ramayana-narodzhennya-legendi-3d?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1237",
+      "title": "Рамаяна: Народження легенди",
+      "slug": "ramayana-narodzhennya-legendi",
+      "genres": "Фентезі",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793970662152?alt=media",
+      "trailer": "https://www.youtube.com/embed/DV-Gg0fSRn4",
+      "showtimes": [
+        {
+          "time": "10:15",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/ramayana-narodzhennya-legendi?cinema=ternopil"
     },
     {
       "id": "ternopil-1225",
@@ -171,12 +171,29 @@
       "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
       "showtimes": [
         {
-          "time": "14:40",
+          "time": "15:50",
           "hall": "Зал №3",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1230",
+      "title": "Знайомство з Факерами-3",
+      "slug": "znajomstvo-z-fakerami-3",
+      "genres": "Комедія",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460860?alt=media",
+      "trailer": "https://www.youtube.com/embed/laaLiV_7yfY",
+      "showtimes": [
+        {
+          "time": "19:50",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/znajomstvo-z-fakerami-3?cinema=ternopil"
     },
     {
       "id": "ternopil-1235",
@@ -188,8 +205,8 @@
       "trailer": "https://www.youtube.com/embed/3aXInyGdjEA",
       "showtimes": [
         {
-          "time": "20:20",
-          "hall": "Зал №1",
+          "time": "20:45",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
@@ -205,7 +222,7 @@
       "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
       "showtimes": [
         {
-          "time": "12:30",
+          "time": "11:55",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -222,8 +239,8 @@
       "trailer": "https://www.youtube.com/embed/VbXJWjFzj5M",
       "showtimes": [
         {
-          "time": "21:30",
-          "hall": "Зал №2",
+          "time": "14:05",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
