@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:02:54.959847+00:00",
+  "updatedAt": "2026-11-22T01:05:06.736146+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -12,12 +12,7 @@
       "trailer": "https://www.youtube.com/embed/gB7sEnVpINo",
       "showtimes": [
         {
-          "time": "10:05",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "18:00",
+          "time": "16:45",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -34,8 +29,8 @@
       "trailer": "https://www.youtube.com/embed/GBlC3lIzu7Y",
       "showtimes": [
         {
-          "time": "12:10",
-          "hall": "Зал №2",
+          "time": "10:10",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
@@ -48,11 +43,16 @@
       "genres": "Фентезі, Екшн, Фантастика",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
-      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
+      "trailer": "https://www.youtube.com/embed/K4_VHMsCFoc",
       "showtimes": [
         {
           "time": "10:30",
           "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "12:10",
+          "hall": "Зал №2",
           "format": "2D"
         },
         {
@@ -66,7 +66,7 @@
           "format": "2D"
         },
         {
-          "time": "17:40",
+          "time": "18:25",
           "hall": "Зал №2",
           "format": "2D"
         },
@@ -77,23 +77,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1217",
-      "title": "Забутий острів",
-      "slug": "zabutij-ostriv",
-      "genres": "Анімаційна пригода",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
-      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
     },
     {
       "id": "ternopil-1218",
@@ -137,7 +120,7 @@
       "trailer": "https://www.youtube.com/embed/H8OizexWplU",
       "showtimes": [
         {
-          "time": "14:30",
+          "time": "15:15",
           "hall": "Зал №2",
           "format": "3D"
         }
@@ -151,10 +134,10 @@
       "genres": "Фентезі",
       "ageLimit": "12+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793970662152?alt=media",
-      "trailer": "https://www.youtube.com/embed/DV-Gg0fSRn4",
+      "trailer": "https://www.youtube.com/embed/H8OizexWplU",
       "showtimes": [
         {
-          "time": "10:15",
+          "time": "10:20",
           "hall": "Зал №1",
           "format": "2D"
         }
@@ -171,7 +154,7 @@
       "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
       "showtimes": [
         {
-          "time": "15:50",
+          "time": "14:40",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -188,7 +171,7 @@
       "trailer": "https://www.youtube.com/embed/laaLiV_7yfY",
       "showtimes": [
         {
-          "time": "19:50",
+          "time": "18:35",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -205,8 +188,8 @@
       "trailer": "https://www.youtube.com/embed/3aXInyGdjEA",
       "showtimes": [
         {
-          "time": "20:45",
-          "hall": "Зал №2",
+          "time": "20:40",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
@@ -219,10 +202,10 @@
       "genres": "Сімейний, Комедія, Пригоди, Анімація",
       "ageLimit": "0+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791284273918?alt=media",
-      "trailer": "https://www.youtube.com/embed/FdhnPwvKuig",
+      "trailer": "https://www.youtube.com/embed/C4E36AfNQEU",
       "showtimes": [
         {
-          "time": "11:55",
+          "time": "12:30",
           "hall": "Зал №3",
           "format": "2D"
         }
@@ -239,12 +222,29 @@
       "trailer": "https://www.youtube.com/embed/VbXJWjFzj5M",
       "showtimes": [
         {
-          "time": "14:05",
-          "hall": "Зал №3",
+          "time": "21:30",
+          "hall": "Зал №2",
           "format": "2D"
         }
       ],
       "detailUrl": "https://miromax.ua/movies/mashina-chasu-majdan?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1217",
+      "title": "Забутий острів",
+      "slug": "zabutij-ostriv",
+      "genres": "Анімаційна пригода",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791466536714?alt=media",
+      "trailer": "https://www.youtube.com/embed/I48g6sU2C0o",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/zabutij-ostriv?cinema=ternopil"
     }
   ]
 }
