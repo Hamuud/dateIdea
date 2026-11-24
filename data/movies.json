@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:28:51.011055+00:00",
+  "updatedAt": "2026-11-24T05:11:43.965989+00:00",
   "cinema": "ternopil",
   "movies": [
     {
@@ -20,30 +20,13 @@
       "detailUrl": "https://miromax.ua/movies/s-mikolaj-ta-zagublenij-list?cinema=ternopil"
     },
     {
-      "id": "ternopil-1229",
-      "title": "Як пограбувати банк",
-      "slug": "yak-pograbuvati-bank",
-      "genres": "Трилер, Екшн, Кримінал",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460424?alt=media",
-      "trailer": "https://www.youtube.com/embed/DrjmL-34o4s",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1221",
       "title": "Голодні ігри: Світанок перед Жнивами",
       "slug": "golodni-igri-svitanok-pered-zhnivami",
       "genres": "Фентезі, Екшн, Фантастика",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
-      "trailer": "https://www.youtube.com/embed/K4_VHMsCFoc",
+      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
       "showtimes": [
         {
           "time": "10:30",
@@ -79,36 +62,21 @@
       "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
     },
     {
-      "id": "ternopil-1218",
-      "title": "Скрудж і духи Різдва",
-      "slug": "skrudzh-i-duhi-rizdva",
-      "genres": "Комедія, Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
-      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
+      "id": "ternopil-1229",
+      "title": "Як пограбувати банк",
+      "slug": "yak-pograbuvati-bank",
+      "genres": "Трилер, Екшн, Кримінал",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460424?alt=media",
+      "trailer": "https://www.youtube.com/embed/DrjmL-34o4s",
       "showtimes": [
         {
-          "time": "13:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "16:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "18:20",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "20:50",
-          "hall": "Зал №1",
+          "time": "10:10",
+          "hall": "Зал №3",
           "format": "2D"
         }
       ],
-      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
+      "detailUrl": "https://miromax.ua/movies/yak-pograbuvati-bank?cinema=ternopil"
     },
     {
       "id": "ternopil-1236",
@@ -162,23 +130,6 @@
       "detailUrl": "https://miromax.ua/movies/znajomstvo-z-fakerami-3?cinema=ternopil"
     },
     {
-      "id": "ternopil-1225",
-      "title": "Плетений",
-      "slug": "pletenij",
-      "genres": "Драма, Комедія, Фентезі, Романтика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
-      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
-      "showtimes": [
-        {
-          "time": "14:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1235",
       "title": "Я - Роккі",
       "slug": "ya-rokki",
@@ -196,6 +147,38 @@
       "detailUrl": "https://miromax.ua/movies/ya-rokki?cinema=ternopil"
     },
     {
+      "id": "ternopil-1218",
+      "title": "Скрудж і духи Різдва",
+      "slug": "skrudzh-i-duhi-rizdva",
+      "genres": "Комедія, Фентезі",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
+      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
+      "showtimes": [
+        {
+          "time": "13:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "16:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "18:20",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:50",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
+    },
+    {
       "id": "ternopil-1215",
       "title": "Кіт у капелюсі",
       "slug": "kit-u-kapelyusi",
@@ -211,6 +194,23 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/kit-u-kapelyusi?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1225",
+      "title": "Плетений",
+      "slug": "pletenij",
+      "genres": "Драма, Комедія, Фентезі, Романтика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
+      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "showtimes": [
+        {
+          "time": "14:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/pletenij?cinema=ternopil"
     },
     {
       "id": "ternopil-1252",
