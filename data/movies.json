@@ -1,7 +1,66 @@
 {
-  "updatedAt": "2026-11-26T03:26:35.040389+00:00",
+  "updatedAt": "2026-11-27T03:33:11.539497+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1230",
+      "title": "Знайомство з Факерами-3",
+      "slug": "znajomstvo-z-fakerami-3",
+      "genres": "Комедія",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460860?alt=media",
+      "trailer": "https://www.youtube.com/embed/laaLiV_7yfY",
+      "showtimes": [
+        {
+          "time": "12:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "15:00",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "18:50",
+          "hall": "Зал №2",
+          "format": "2D"
+        },
+        {
+          "time": "21:05",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/znajomstvo-z-fakerami-3?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1221",
+      "title": "Голодні ігри: Світанок перед Жнивами",
+      "slug": "golodni-igri-svitanok-pered-zhnivami",
+      "genres": "Фентезі, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
+      "trailer": "https://www.youtube.com/embed/K4_VHMsCFoc",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "13:10",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:20",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
+    },
     {
       "id": "ternopil-1234",
       "title": "S Миколай та загублений лист",
@@ -28,6 +87,38 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/s-mikolaj-ta-zagublenij-list?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1218",
+      "title": "Скрудж і духи Різдва",
+      "slug": "skrudzh-i-duhi-rizdva",
+      "genres": "Комедія, Фентезі",
+      "ageLimit": "12+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
+      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
+      "showtimes": [
+        {
+          "time": "10:40",
+          "hall": "Зал №3",
+          "format": "2D"
+        },
+        {
+          "time": "16:00",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "18:30",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "20:55",
+          "hall": "Зал №1",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
     },
     {
       "id": "ternopil-1238",
@@ -79,65 +170,6 @@
       "detailUrl": "https://miromax.ua/movies/charokraj-korolivstvo-magiyi?cinema=ternopil"
     },
     {
-      "id": "ternopil-1221",
-      "title": "Голодні ігри: Світанок перед Жнивами",
-      "slug": "golodni-igri-svitanok-pered-zhnivami",
-      "genres": "Фентезі, Екшн, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
-      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "13:10",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1218",
-      "title": "Скрудж і духи Різдва",
-      "slug": "skrudzh-i-duhi-rizdva",
-      "genres": "Комедія, Фентезі",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1791465748234?alt=media",
-      "trailer": "https://www.youtube.com/embed/k17NWUisBk8",
-      "showtimes": [
-        {
-          "time": "10:40",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "16:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "18:30",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "20:55",
-          "hall": "Зал №1",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/skrudzh-i-duhi-rizdva?cinema=ternopil"
-    },
-    {
       "id": "ternopil-1240",
       "title": "Скажене Різдво",
       "slug": "skazhene-rizdvo",
@@ -163,38 +195,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/skazhene-rizdvo?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1230",
-      "title": "Знайомство з Факерами-3",
-      "slug": "znajomstvo-z-fakerami-3",
-      "genres": "Комедія",
-      "ageLimit": "12+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793286460860?alt=media",
-      "trailer": "https://www.youtube.com/embed/laaLiV_7yfY",
-      "showtimes": [
-        {
-          "time": "12:00",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "15:00",
-          "hall": "Зал №3",
-          "format": "2D"
-        },
-        {
-          "time": "18:50",
-          "hall": "Зал №2",
-          "format": "2D"
-        },
-        {
-          "time": "21:05",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/znajomstvo-z-fakerami-3?cinema=ternopil"
     },
     {
       "id": "ternopil-1225",
