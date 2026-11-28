@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-27T03:33:11.539497+00:00",
+  "updatedAt": "2026-11-28T03:10:55.259109+00:00",
   "cinema": "ternopil",
   "movies": [
+    {
+      "id": "ternopil-1234",
+      "title": "S Миколай та загублений лист",
+      "slug": "s-mikolaj-ta-zagublenij-list",
+      "genres": "Сімейна комедія",
+      "ageLimit": "0+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793798792323?alt=media",
+      "trailer": "https://www.youtube.com/embed/gB7sEnVpINo",
+      "showtimes": [
+        {
+          "time": "10:10",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "14:05",
+          "hall": "Зал №1",
+          "format": "2D"
+        },
+        {
+          "time": "16:45",
+          "hall": "Зал №2",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/s-mikolaj-ta-zagublenij-list?cinema=ternopil"
+    },
+    {
+      "id": "ternopil-1221",
+      "title": "Голодні ігри: Світанок перед Жнивами",
+      "slug": "golodni-igri-svitanok-pered-zhnivami",
+      "genres": "Фентезі, Екшн, Фантастика",
+      "ageLimit": "16+",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
+      "trailer": "https://www.youtube.com/embed/5vmHS_ROeFI",
+      "showtimes": [
+        {
+          "time": "10:00",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "13:10",
+          "hall": "Зал №4",
+          "format": "2D"
+        },
+        {
+          "time": "18:20",
+          "hall": "Зал №4",
+          "format": "2D"
+        }
+      ],
+      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
+    },
     {
       "id": "ternopil-1230",
       "title": "Знайомство з Факерами-3",
@@ -33,60 +87,6 @@
         }
       ],
       "detailUrl": "https://miromax.ua/movies/znajomstvo-z-fakerami-3?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1221",
-      "title": "Голодні ігри: Світанок перед Жнивами",
-      "slug": "golodni-igri-svitanok-pered-zhnivami",
-      "genres": "Фентезі, Екшн, Фантастика",
-      "ageLimit": "16+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1794316599768?alt=media",
-      "trailer": "https://www.youtube.com/embed/K4_VHMsCFoc",
-      "showtimes": [
-        {
-          "time": "10:00",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "13:10",
-          "hall": "Зал №4",
-          "format": "2D"
-        },
-        {
-          "time": "18:20",
-          "hall": "Зал №4",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/golodni-igri-svitanok-pered-zhnivami?cinema=ternopil"
-    },
-    {
-      "id": "ternopil-1234",
-      "title": "S Миколай та загублений лист",
-      "slug": "s-mikolaj-ta-zagublenij-list",
-      "genres": "Сімейна комедія",
-      "ageLimit": "0+",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793798792323?alt=media",
-      "trailer": "https://www.youtube.com/embed/gB7sEnVpINo",
-      "showtimes": [
-        {
-          "time": "10:10",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "14:05",
-          "hall": "Зал №1",
-          "format": "2D"
-        },
-        {
-          "time": "16:45",
-          "hall": "Зал №2",
-          "format": "2D"
-        }
-      ],
-      "detailUrl": "https://miromax.ua/movies/s-mikolaj-ta-zagublenij-list?cinema=ternopil"
     },
     {
       "id": "ternopil-1218",
@@ -203,7 +203,7 @@
       "genres": "Драма, Комедія, Фентезі, Романтика",
       "ageLimit": "16+",
       "poster": "https://firebasestorage.googleapis.com/v0/b/miromax-cda62.appspot.com/o/moviesPosters%2F1793086289616?alt=media",
-      "trailer": "https://www.youtube.com/embed/IWcTzfvutbs",
+      "trailer": "https://www.youtube.com/embed/JH25LjG7R7k",
       "showtimes": [
         {
           "time": "21:10",
